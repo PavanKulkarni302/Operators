@@ -1,0 +1,1517 @@
+id,code,value,type
+1,BAG,Bags,Unit
+2,BAL,Bale,Unit
+3,BDL,Bundles,Unit
+4,BKL,Buckles,Unit
+5,BOU,Billions of Units,Unit
+6,BOX,Box,Unit
+7,BTL,Bottles,Unit
+8,BUN,Bunches,Unit
+9,CAN,Cans,Unit
+10,CBM,Cubic Metres,Unit
+11,CCM,Cubic Centimetres,Unit
+12,CMS,Centimetres,Unit
+13,CTN,Cartons,Unit
+14,DOZ,Dozens,Unit
+15,DRM,Drums,Unit
+16,GGK,Great Gross,Unit
+17,GMS,Grams,Unit
+18,GRS,Gross,Unit
+19,GYD,Gross Yards,Unit
+20,KGS,Kilograms,Unit
+21,KLR,Kilolitre,Unit
+22,KME,Kilometre,Unit
+23,LTR,Litre,Unit
+24,MTR,Metre,Unit
+25,MLT,Millilitre,Unit
+26,MTS,Metric Ton,Unit
+27,NOS,Numbers,Unit
+28,OTH,Others,Unit
+29,PAC,Packs,Unit
+30,PCS,Pieces,Unit
+31,PRS,Pairs,Unit
+32,QTL,Quintal,Unit
+33,ROL,Rolls,Unit
+34,SET,Sets,Unit
+35,SQF,Square Feet,Unit
+36,SQM,Square Metre,Unit
+37,SQY,Square Yards,Unit
+38,TBS,Tablets,Unit
+39,TGM,Ten Gross,Unit
+40,THD,Thousands,Unit
+41,TON,Tonnes,Unit
+42,TUB,Tubes,Unit
+43,UGS,US Gallons,Unit
+44,UNT,Unit,Unit
+45,YDS,Yards,Unit
+46,1,JAMMU AND KASHMIR,State
+47,2,HIMACHAL PRADESH,State
+48,3,PUNJAB,State
+49,4,CHANDIGARH,State
+50,5,UTTARAKHAND,State
+51,6,HARYANA,State
+52,7,DELHI,State
+53,8,RAJASTHAN,State
+54,9,UTTAR PRADESH,State
+55,10,BIHAR,State
+56,11,SIKKIM,State
+57,12,ARUNACHAL PRADESH,State
+58,13,NAGALAND,State
+59,14,MANIPUR,State
+60,15,MIZORAM,State
+61,16,TRIPURA,State
+62,17,MEGHALAYA,State
+63,18,ASSAM,State
+64,19,WEST BENGAL,State
+65,20,JHARKHAND,State
+66,21,ORISSA,State
+67,22,CHHATTISGARH,State
+68,23,MADHYA PRADESH,State
+69,24,GUJARAT,State
+70,25,DAMAN AND DIU,State
+71,26,DADAR AND NAGAR HAVELI,State
+72,27,MAHARASTRA,State
+73,29,KARNATAKA,State
+74,30,GOA,State
+75,31,LAKSHADWEEP,State
+76,32,KERALA,State
+77,33,TAMIL NADU,State
+78,34,PUDUCHERRY,State
+79,35,ANDAMAN AND NICOBAR,State
+80,36,TELANGANA,State
+81,37,ANDHRA PRADESH,State
+82,97,OTHER TERRITORY,State
+83,96,OTHER COUNTRY,State
+84,AD,Andorra,Country
+85,AE,United Arab Emirates,Country
+86,AF,Afghanistan,Country
+87,AG,Antigua and Barbuda,Country
+88,AI,Anguilla,Country
+89,AL,Albania,Country
+90,AM,Armenia,Country
+91,AO,Angola,Country
+92,AQ,Antarctica,Country
+93,AR,Argentina,Country
+94,AS,American Samoa,Country
+95,AT,Austria,Country
+96,AU,Australia,Country
+97,AW,Aruba,Country
+98,AX,Åland Islands,Country
+99,AZ,Azerbaijan,Country
+100,BA,Bosnia and Herzegovina,Country
+101,BB,Barbados,Country
+102,BD,Bangladesh,Country
+103,BE,Belgium,Country
+104,BF,Burkina Faso,Country
+105,BG,Bulgaria,Country
+106,BH,Bahrain,Country
+107,BI,Burundi,Country
+108,BJ,Benin,Country
+109,BL,Saint Barthélemy,Country
+110,BM,Bermuda,Country
+111,BN,Brunei Darussalam,Country
+112,BO,Bolivia (Plurinational State of),Country
+113,BQ,"Bonaire, Sint Eustatius and Saba",Country
+114,BR,Brazil,Country
+115,BS,Bahamas,Country
+116,BT,Bhutan,Country
+117,BV,Bouvet Island,Country
+118,BW,Botswana,Country
+119,BY,Belarus,Country
+120,BZ,Belize,Country
+121,CA,Canada,Country
+122,CC,Cocos (Keeling) Islands,Country
+123,CD,"Congo, Democratic Republic of the",Country
+124,CF,Central African Republic,Country
+125,CG,Congo,Country
+126,CH,Switzerland,Country
+127,CI,Côte dIvoire,Country
+128,CK,Cook Islands,Country
+129,CL,Chile,Country
+130,CM,Cameroon,Country
+131,CN,China,Country
+132,CO,Colombia,Country
+133,CR,Costa Rica,Country
+134,CU,Cuba,Country
+135,CV,Cabo Verde,Country
+136,CW,Curaçao,Country
+137,CX,Christmas Island,Country
+138,CY,Cyprus,Country
+139,CZ,Czechia,Country
+140,DE,Germany,Country
+141,DJ,Djibouti,Country
+142,DK,Denmark,Country
+143,DM,Dominica,Country
+144,DO,Dominican Republic,Country
+145,DZ,Algeria,Country
+146,EC,Ecuador,Country
+147,EE,Estonia,Country
+148,EG,Egypt,Country
+149,EH,Western Sahara,Country
+150,ER,Eritrea,Country
+151,ES,Spain,Country
+152,ET,Ethiopia,Country
+153,FI,Finland,Country
+154,FJ,Fiji,Country
+155,FK,Falkland Islands (Malvinas),Country
+156,FM,Micronesia (Federated States of),Country
+157,FO,Faroe Islands,Country
+158,FR,France,Country
+159,GA,Gabon,Country
+160,GB,United Kingdom of Great Britain and Northern Ireland,Country
+161,GD,Grenada,Country
+162,GE,Georgia,Country
+163,GF,French Guiana,Country
+164,GG,Guernsey,Country
+165,GH,Ghana,Country
+166,GI,Gibraltar,Country
+167,GL,Greenland,Country
+168,GM,Gambia,Country
+169,GN,Guinea,Country
+170,GP,Guadeloupe,Country
+171,GQ,Equatorial Guinea,Country
+172,GR,Greece,Country
+173,GS,South Georgia and the South Sandwich Islands,Country
+174,GT,Guatemala,Country
+175,GU,Guam,Country
+176,GW,Guinea-Bissau,Country
+177,GY,Guyana,Country
+178,HK,Hong Kong,Country
+179,HM,Heard Island and McDonald Islands,Country
+180,HN,Honduras,Country
+181,HR,Croatia,Country
+182,HT,Haiti,Country
+183,HU,Hungary,Country
+184,ID,Indonesia,Country
+185,IE,Ireland,Country
+186,IL,Israel,Country
+187,IM,Isle of Man,Country
+188,IN,India,Country
+189,IO,British Indian Ocean Territory,Country
+190,IQ,Iraq,Country
+191,IR,Iran (Islamic Republic of),Country
+192,IS,Iceland,Country
+193,IT,Italy,Country
+194,JE,Jersey,Country
+195,JM,Jamaica,Country
+196,JO,Jordan,Country
+197,JP,Japan,Country
+198,KE,Kenya,Country
+199,KG,Kyrgyzstan,Country
+200,KH,Cambodia,Country
+201,KI,Kiribati,Country
+202,KM,Comoros,Country
+203,KN,Saint Kitts and Nevis,Country
+204,KP,Korea (Democratic Peoples Republic of),Country
+205,KR,"Korea, Republic of",Country
+206,KW,Kuwait,Country
+207,KY,Cayman Islands,Country
+208,KZ,Kazakhstan,Country
+209,LA,Lao Peoples Democratic Republic,Country
+210,LB,Lebanon,Country
+211,LC,Saint Lucia,Country
+212,LI,Liechtenstein,Country
+213,LK,Sri Lanka,Country
+214,LR,Liberia,Country
+215,LS,Lesotho,Country
+216,LT,Lithuania,Country
+217,LU,Luxembourg,Country
+218,LV,Latvia,Country
+219,LY,Libya,Country
+220,MA,Morocco,Country
+221,MC,Monaco,Country
+222,MD,"Moldova, Republic of",Country
+223,ME,Montenegro,Country
+224,MF,Saint Martin (French part),Country
+225,MG,Madagascar,Country
+226,MH,Marshall Islands,Country
+227,MK,North Macedonia,Country
+228,ML,Mali,Country
+229,MM,Myanmar,Country
+230,MN,Mongolia,Country
+231,MO,Macao,Country
+232,MP,Northern Mariana Islands,Country
+233,MQ,Martinique,Country
+234,MR,Mauritania,Country
+235,MS,Montserrat,Country
+236,MT,Malta,Country
+237,MU,Mauritius,Country
+238,MV,Maldives,Country
+239,MW,Malawi,Country
+240,MX,Mexico,Country
+241,MY,Malaysia,Country
+242,MZ,Mozambique,Country
+243,,Namibia,Country
+244,NC,New Caledonia,Country
+245,NE,Niger,Country
+246,NF,Norfolk Island,Country
+247,NG,Nigeria,Country
+248,NI,Nicaragua,Country
+249,NL,Netherlands,Country
+250,NO,Norway,Country
+251,NP,Nepal,Country
+252,NR,Nauru,Country
+253,NU,Niue,Country
+254,NZ,New Zealand,Country
+255,OM,Oman,Country
+256,PA,Panama,Country
+257,PE,Peru,Country
+258,PF,French Polynesia,Country
+259,PG,Papua New Guinea,Country
+260,PH,Philippines,Country
+261,PK,Pakistan,Country
+262,PL,Poland,Country
+263,PM,Saint Pierre and Miquelon,Country
+264,PN,Pitcairn,Country
+265,PR,Puerto Rico,Country
+266,PS,"Palestine, State of",Country
+267,PT,Portugal,Country
+268,PW,Palau,Country
+269,PY,Paraguay,Country
+270,QA,Qatar,Country
+271,RE,Réunion,Country
+272,RO,Romania,Country
+273,RS,Serbia,Country
+274,RU,Russian Federation,Country
+275,RW,Rwanda,Country
+276,SA,Saudi Arabia,Country
+277,SB,Solomon Islands,Country
+278,SC,Seychelles,Country
+279,SD,Sudan,Country
+280,SE,Sweden,Country
+281,SG,Singapore,Country
+282,SH,"Saint Helena, Ascension and Tristan da Cunha",Country
+283,SI,Slovenia,Country
+284,SJ,Svalbard and Jan Mayen,Country
+285,SK,Slovakia,Country
+286,SL,Sierra Leone,Country
+287,SM,San Marino,Country
+288,SN,Senegal,Country
+289,SO,Somalia,Country
+290,SR,Suriname,Country
+291,SS,South Sudan,Country
+292,ST,Sao Tome and Principe,Country
+293,SV,El Salvador,Country
+294,SX,Sint Maarten (Dutch part),Country
+295,SY,Syrian Arab Republic,Country
+296,SZ,Eswatini,Country
+297,TC,Turks and Caicos Islands,Country
+298,TD,Chad,Country
+299,TF,French Southern Territories,Country
+300,TG,Togo,Country
+301,TH,Thailand,Country
+302,TJ,Tajikistan,Country
+303,TK,Tokelau,Country
+304,TL,Timor-Leste,Country
+305,TM,Turkmenistan,Country
+306,TN,Tunisia,Country
+307,TO,Tonga,Country
+308,TR,Turkey,Country
+309,TT,Trinidad and Tobago,Country
+310,TV,Tuvalu,Country
+311,TW,"Taiwan, Province of China",Country
+312,TZ,"Tanzania, United Republic of",Country
+313,UA,Ukraine,Country
+314,UG,Uganda,Country
+315,UM,United States Minor Outlying Islands,Country
+316,US,United States of America,Country
+317,UY,Uruguay,Country
+318,UZ,Uzbekistan,Country
+319,VA,Holy See,Country
+320,VC,Saint Vincent and the Grenadines,Country
+321,VE,Venezuela (Bolivarian Republic of),Country
+322,VG,Virgin Islands (British),Country
+323,VI,Virgin Islands (U.S.),Country
+324,VN,Viet Nam,Country
+325,VU,Vanuatu,Country
+326,WF,Wallis and Futuna,Country
+327,WS,Samoa,Country
+328,YE,Yemen,Country
+329,YT,Mayotte,Country
+330,ZA,South Africa,Country
+331,ZM,Zambia,Country
+332,ZW,Zimbabwe,Country
+333,INABG1,Alibag,Port
+334,INACH1,Achra,Port
+335,INADA6,Ahmedabad Adalaj,Port
+336,INADI1,Androth Island,Port
+337,INAGI1,Agatti Island,Port
+338,INAGR4,Agra,Port
+339,INAGR5,FPO AGRA,Port
+340,INAGR6,Agra,Port
+341,INAGTB,Agartala,Port
+342,INAGX4,Agatti Island,Port
+343,INAHD6,ICD SANAND,Port
+344,INAIG6,GE PVT. LTD.,Port
+345,INAII6,M/S IGATE GS LTD.,Port
+346,INAIK6,IBRAHIMPURICD KHURJA,Port
+347,INAIR6,SP PVT. LTD.,Port
+348,INAJE6,WLSPUN ANJAR SEZ,Port
+349,INAJJ6,Arakkonam Melpakkam,Port
+350,INAJL4,Aizawl,Port
+351,INAJM6,MUNDRA PORT SEZ,Port
+352,INAKB6,BIACPL SEZ,Port
+353,INAKD4,Akola,Port
+354,INAKP6,APIICL SEZ,Port
+355,INAKR6,RPCIPL SEZ,Port
+356,INAKV6,Ankleshwar ICD,Port
+357,INALA1,ALANG SBY,Port
+358,INALF1,Allepey,Port
+359,INAMD4,Ahmedabad,Port
+360,INAMD5,Ahmedabad,Port
+361,INAMD6,Ahmedabad,Port
+362,INAMG6,Amingaon (Gauhati),Port
+363,INAMI1,Amini Island,Port
+364,INAMK6,KSITIL/SEZ/ALAPPUZHA,Port
+365,INANG1,Anijengo,Port
+366,INANL1,Arnala,Port
+367,INAPI6,AAP-SEZ AHMEDABAD,Port
+368,INAPL6,Dadri ACPL CFS,Port
+369,INAPT6,Anaparti,Port
+370,INARR6,Aroor,Port
+371,INASR2,Amritsar Railway Stn,Port
+372,INASR6,Amritsar,Port
+373,INATQ4,Amritsar,Port
+374,INATQ6,Amritsar,Port
+375,INATRB,Attari Road,Port
+376,INATT2,Attari Railway Stat,Port
+377,INAWM6,"SEZ, SHENDRA",Port
+378,INAWS6,SOMANI SEZ BHIWADI,Port
+379,INAWW6,"WIDL AEZ, AURANGABAD",Port
+380,INAZK1,Azhikkal,Port
+381,INBAG6,GEM&JEWEL-SEZ/ULWE,Port
+382,INBAI6,IT/ITES-B-SEZ/ULWE,Port
+383,INBAM6,MULTISERVCE-SEZ/ULWE,Port
+384,INBAP6,MULTISERVICEDRONAGIR,Port
+385,INBAT6,IT/ITES-C SEZ/UIWE,Port
+386,INBAU6,IT/ITES-A-SEZ/ULWE,Port
+387,INBAW6,ICD BAWAL,Port
+388,INBBI4,Bhubaneswar,Port
+389,INBBM6,Bari Brahamna ICD,Port
+390,INBBP1,Bahabal Pur,Port
+391,INBBS6,"SEZ, OIIDC, BHUBANES",Port
+392,INBCH6,HARI SEZ VARANASI,Port
+393,INBCO6,EURO MULTIVISION SEZ,Port
+394,INBCP6,PRITECH/SEZ/BANGLORE,Port
+395,INBDB6,PRECIOUSCARGOCUSTOMS,Port
+396,INBDG1,Badagara,Port
+397,INBDH6,ICD BADOHI,Port
+398,INBDI6,"ICD BADDI,",Port
+399,INBDM6,"ICD, PANCHI, SONIPAT",Port
+400,INBDQ1,Vadodara,Port
+401,INBDR1,Baindur,Port
+402,INBED1,Bedi,Port
+403,INBEK4,Bareilly,Port
+404,INBEP4,Bellary,Port
+405,INBET1,Betul,Port
+406,INBEY1,Beypore,Port
+407,INBFR6,"M/S GRFL, ICD, BALLA",Port
+408,INBGK6,Bhagat ki Kothi Jodh,Port
+409,INBGMB,Baghmara,Port
+410,INBGQ6,QUEST SEZ BELGAUM,Port
+411,INBGUB,Bairgania,Port
+412,INBGW1,Bhagwa,Port
+413,INBHC6,JUBILANT/SEZ/VILAYAT,Port
+414,INBHD6,DAHEZ SEZ,Port
+415,INBHJ4,Bhuj,Port
+416,INBHL6,Bhilwara,Port
+417,INBHM1,Bheemunipatnam,Port
+418,INBHO4,Bhopal,Port
+419,INBHS6,STERLING BHARUCH,Port
+420,INBHU1,Bhavanagar,Port
+421,INBHU4,Bhavanagar,Port
+422,INBKB4,Bikaner,Port
+423,INBKR1,Belekeri,Port
+424,INBKT1,Bankot,Port
+425,INBLC6,CESSNA/SEZ/BANGALORE,Port
+426,INBLE6,CONCOR ICD BALASORE,Port
+427,INBLJ6,Agra,Port
+428,INBLK1,Belekeri,Port
+429,INBLM1,Bilimora,Port
+430,INBLP1,Belapur,Port
+431,INBLR4,Bangalore,Port
+432,INBLR5,Bangalore,Port
+433,INBLR6,Bangalore,Port
+434,INBLTB,Balet,Port
+435,INBLV6,VTV/SEZ/BANGALORE,Port
+436,INBMA6,APIIC PRAKASHAM,Port
+437,INBMR2,Barmer Railway Stati,Port
+438,INBNC6,KBITS SEZ BANGALORE,Port
+439,INBND1,Bandra,Port
+440,INBNG6,"MAHAGAON ICD, THANE",Port
+441,INBNK6,KOLKATA IT PARK,Port
+442,INBNP1,Bheemunipatnam,Port
+443,INBNRB,Bhimnagar,Port
+444,INBNT6,TCS,Port
+445,INBNW6,WIPRO SEZ,Port
+446,INBNX6,"CANDOR ONE HTSPL,SEZ",Port
+447,INBNYB,Berhni,Port
+448,INBOK6,BORKHEDI ICD NAGPUR,Port
+449,INBOLB,Bolanganj,Port
+450,INBOM1,Mumbai (Ex Bombay),Port
+451,INBOM4,Mumbai (Ex Bombay),Port
+452,INBOM5,Mumbai (Ex Bombay),Port
+453,INBOM6,Mumbai(EPZ/SEZ),Port
+454,INBPL5,BHOPAL FPO,Port
+455,INBPS5,APSO MUMBAI,Port
+456,INBRAB,Barsora,Port
+457,INBRC6,Baroda,Port
+458,INBRH1,Broach,Port
+459,INBRI6,RNBIPL SEZ BIKANER,Port
+460,INBRL6,L & T/SEZ/VADODARA,Port
+461,INBRM1,Borlai ¿ Mandla,Port
+462,INBRS6,S E & C/SEZ/WAGHODIA,Port
+463,INBRY1,Borya,Port
+464,INBSAB,Banbasa,Port
+465,INBSB6,Varanasi,Port
+466,INBSL6,Bhusaval ICD,Port
+467,INBSN1,Bassein,Port
+468,INBSR1,Bulsar,Port
+469,INBSW6,AFS KAPASHERA,Port
+470,INBTK1,Bhatkal,Port
+471,INBTMB,Bhithamore(Sursnad),Port
+472,INBTR1,Bitra Island,Port
+473,INBUD1,Budge-Budge,Port
+474,INBUL6,AN FTWZ BULANDSHAHR,Port
+475,INBUP4,Bhatinda,Port
+476,INBUP6,Bhatinda,Port
+477,INBVC6,CONCR-ICD/BALLABGARH,Port
+478,INBWD6,Bhiwadi,Port
+479,INBWN1,Bhiwandi,Port
+480,INBXR6,"DLF LTD., SEZ",Port
+481,INBYT1,Beyt,Port
+482,INCAG6,TATA STEEL SEZGANJAM,Port
+483,INCAM1,Cambay,Port
+484,INCAP1,Calingapatam,Port
+485,INCAR1,Carijam,Port
+486,INCAS6,SAPL SEZ/ GANJAM,Port
+487,INCBC6,CHIPL SEZ/ COIMBATOR,Port
+488,INCBD4,Car Nicobar,Port
+489,INCBDB,Changrabandh,Port
+490,INCBE6,COIMBATORE,Port
+491,INCBL1,Chandbali,Port
+492,INCBS6,SE&C COIMBATORE,Port
+493,INCCH6,Chinchwad ICD,Port
+494,INCCI6,WIPRO SEZ HINJEWADI,Port
+495,INCCJ1,Kozhikode (ex Calicu,Port
+496,INCCJ4,Kozhikode (ex Calicu,Port
+497,INCCP6,"PEPPL SEZ, CHINCHWAD",Port
+498,INCCQ6,M/S QB PARK LTD.,Port
+499,INCCT6,KINFRAFP SEZ,Port
+500,INCCU1,Calcutta,Port
+501,INCCU4,Calcutta,Port
+502,INCCU5,Calcutta,Port
+503,INCCW6,WIPRO LTD.,Port
+504,INCDC6,RGT PARK (PHASE-II),Port
+505,INCDD6,RGT PARK (PHASE-I),Port
+506,INCDL1,Cuddalore,Port
+507,INCDP1,Coondapur (Ganguly),Port
+508,INCDP4,Cuddapah,Port
+509,INCDP6,M/S APIIC LTD SEZ.,Port
+510,INCDQ6,QUARKCITY/SEZ/MOHALI,Port
+511,INCDR6,SUN PHARMACEUTICALS,Port
+512,INCEC6,L&T AE IT SEZ PVT.,Port
+513,INCGA6,MWCD APARELS CHENGPA,Port
+514,INCGE6,ETA TECH. PVT. LTD.,Port
+515,INCGI6,MWCD SEZ CHENGALPATU,Port
+516,INCGL6,MWCD AUTO ANCILARIES,Port
+517,INCHE6,Tiruppur-Chettipalay,Port
+518,INCHJ6,ICD WARDHA,Port
+519,INCHL1,Colachel,Port
+520,INCHMB,Chamurchi,Port
+521,INCHN6,Vadodara Chhani CFS,Port
+522,INCHPB,Champai,Port
+523,INCHR1,Chapora,Port
+524,INCJA6,L&T AE IT SEZ,Port
+525,INCJB4,Coimbatore,Port
+526,INCJB6,Coimbatore,Port
+527,INCJC6,NCTL (ENGG.) SEZ/ KA,Port
+528,INCJD6,DLF INFOCITY DEV.,Port
+529,INCJE6,ECTN KANCHEEPURAM,Port
+530,INCJF6,FTIL SRIPERUMBUDUR,Port
+531,INCJH6,ICD WARDHA,Port
+532,INCJI6,ETL IS LTD.,Port
+533,INCJJ6,J M FTZ/SEZ/MANNUR,Port
+534,INCJN6,NIPL SEZ SRIPERUMBUD,Port
+535,INCJO6,SIPCOT ORAGADAM SRIP,Port
+536,INCJS6,SIPCOT SRIPERUMBUDUR,Port
+537,INCLK6,KSITIL/SEZ/KOZHIKODE,Port
+538,INCLU6,ULCCS/SEZ/KOZHIKODE,Port
+539,INCLX6,Chirala,Port
+540,INCMB1,Cambay,Port
+541,INCML6,KATHUWAS ICD ALWAR,Port
+542,INCNB1,Car-Nicobar,Port
+543,INCNC6,NCT PVT. LTD. SEZ,Port
+544,INCNN1,Cannanore,Port
+545,INCOA6,KAKINADA SEZ KAKINAD,Port
+546,INCOH4,Cooch Behar,Port
+547,INCOK1,Cochin,Port
+548,INCOK4,Cochin,Port
+549,INCOK6,Cochin(EPZ/SEZ),Port
+550,INCOL1,Colochel,Port
+551,INCOO1,Coondapur (Ganguly),Port
+552,INCOP6,PARRY SEZ KAKINADA,Port
+553,INCPC6,Kanpur Chakeri,Port
+554,INCPL6,Dadri CGML,Port
+555,INCPR6,ICD CHAWAPAYAL,Port
+556,INCRL6,RGA SEZ CHIKKANKANNE,Port
+557,INCRN1,Cornwallis,Port
+558,INCRW6,WIPRO/SEZ/BANGALORE,Port
+559,INCRXB,LOKSAN LCS,Port
+560,INCSP6,SI PVT. LTD.,Port
+561,INCSV6,SPVL SEZ COIMBATORE,Port
+562,INCTI1,Chetlat Island,Port
+563,INCUM1,Cutch Mandvi,Port
+564,INDAE4,Daparizo,Port
+565,INDAH1,Dahej,Port
+566,INDAI4,Darjeeling,Port
+567,INDAM1,Daman,Port
+568,INDAM4,Daman,Port
+569,INDAR6,ARTHA SEZ GR. NOIDA,Port
+570,INDBD4,Dhanbad,Port
+571,INDBS6,SANTA-SEZ/ViII-MUPPI,Port
+572,INDDL6,PSWC ICD DHANDARIKAL,Port
+573,INDEA6,AS PVT. LTD.,Port
+574,INDED4,Dehra Dun,Port
+575,INDEF6,INFOSYS SEZ DADRI,Port
+576,INDEG1,Deogad,Port
+577,INDEH6,HCL TECH. LTD. DEV.,Port
+578,INDEI6,IVR SEZ NOIDA,Port
+579,INDEJ6,JUBILANT SEZ NOIDA,Port
+580,INDEL4,Delhi,Port
+581,INDEL5,Delhi,Port
+582,INDEM6,MOSERBAER/SEZ/NOIDA,Port
+583,INDEN6,M/S NIIT TECH. LTD.,Port
+584,INDEP4,Deparizo,Port
+585,INDER6,Dadri,Port
+586,INDES6,M/S SEAVIEW DEV. LTD,Port
+587,INDET6,UNITECH HITECH NOIDA,Port
+588,INDEU6,UNITECHINFRA NOIDA,Port
+589,INDEW6,M/S WIPRO LTD.,Port
+590,INDGI6,GALLANT SEZ NOIDA,Port
+591,INDGT6,GOLDEN SEZ NOIDA,Port
+592,INDHA6,Indore-Dhannad,Port
+593,INDHBB,Dhubri Steamerghat,Port
+594,INDHLB,Dhalaighat,Port
+595,INDHM4,Dharamsala,Port
+596,INDHN1,Dahanu,Port
+597,INDHP1,Dabhol Port,Port
+598,INDHR1,Dholera,Port
+599,INDHU1,Dahanu,Port
+600,INDIB4,Dibrugarh,Port
+601,INDID6,"SEZ, MIDC, NANDED",Port
+602,INDIG1,Dighi Port,Port
+603,INDIG6,Dighi (Pune),Port
+604,INDIT6,ANSAL IT/SEZ/NOIDA,Port
+605,INDIU1,Diu,Port
+606,INDIU4,Diu,Port
+607,INDIV1,Div,Port
+608,INDLAB,Dharchula,Port
+609,INDLH6,APLLP SEZ BENGALURU,Port
+610,INDLI2,Delhi Railway Statio,Port
+611,INDLOB,BIRPARA LCS,Port
+612,INDLUB,Dalu,Port
+613,INDMA1,DHAMRA,Port
+614,INDMRB,Demagir,Port
+615,INDMT1,Dharamtar,Port
+616,INDMU4,Dimapur,Port
+617,INDPC4,DPC BKC Mumbai,Port
+618,INDPR6,DAPPER,Port
+619,INDRC6,RCIPL SEZ NOIDA,Port
+620,INDRGB,Darranga,Port
+621,INDRK1,Dwarka (Rupen),Port
+622,INDRL1,Dabolim,Port
+623,INDRU6,Belgaum Desur,Port
+624,INDSK1,Dhanu-shkodi,Port
+625,INDSM6,SMRTPL SEZ NOIDA,Port
+626,INDTW1,Dantiwara,Port
+627,INDUR6,ICD Durgapur,Port
+628,INDWA1,Dwarka,Port
+629,INDWKB,Dawki,Port
+630,INDWN6,ICD SAMALKHA PANIPAT,Port
+631,INDWR6,INFOSYS SEZ HUBLI,Port
+632,INENR1,KAMARAJAR PORT LTD,Port
+633,INERP6,PUTHUVYPEEN SEZ,Port
+634,INERV6,VALLARPADOM SEZ,Port
+635,INESH1,Elphinstone Harbour,Port
+636,INFBD6,ICD Faridabad,Port
+637,INFBE6,ESPIRE SEZ FARIDABAD,Port
+638,INFBM6,METRO SEZ GURGAON,Port
+639,INFBP6,PERPETUAL FARIDABAD,Port
+640,INFBRB,Fulbari LCS,Port
+641,INFBS6,SELECTOSEZ FARIDABAD,Port
+642,INFCH5,FPO(SEA) CHENNAI,Port
+643,INFLT6,Falta(SEZ),Port
+644,INFMA6,APIICL MEDAK,Port
+645,INFMH6,HGSEZL RANGA REDDY,Port
+646,INFMJ6,"M/S J.T. SEZ, RANGAR",Port
+647,INFMS6,"M/S STARGAZE, SEZ",Port
+648,INGAIB,Gauriphanta,Port
+649,INGALB,Galgalia,Port
+650,INGAO6,OPGS POWER GUJARAT,Port
+651,INGAS6,ANSAL SEZ GURGAON,Port
+652,INGAU1,Gauhati (Panidi),Port
+653,INGAU2,Gauhati (Panidi),Port
+654,INGAU4,Gauhati (Panidi),Port
+655,INGAU5,FPO GUWAHATI,Port
+656,INGAW2,Guwahati,Port
+657,INGAY4,Gaya,Port
+658,INGDL6,"DLF CYBERCITY SEZ,",Port
+659,INGDM6,MF PARK PVT. LTD.,Port
+660,INGDP6,FLLPL SEZ THIRUVALUR,Port
+661,INGED2,Gede Railway Station,Port
+662,INGGA1,Gogha,Port
+663,INGGB6,SBPL SEZ GURGAON,Port
+664,INGGC6,ORIENT SEZ GURGAON,Port
+665,INGGD6,DLF LTD.,Port
+666,INGGE6,AEPL SEZ GURGAON,Port
+667,INGGF6,FRESH SEZ GURGAON,Port
+668,INGGG6,GHI SEZ GURGAON,Port
+669,INGGI6,"GIL SEZ, GURGAON",Port
+670,INGGL6,LUXOR SEZ GURGAON,Port
+671,INGGM6,MIPPL SEZ GURGAON,Port
+672,INGGN2,Gurgaon,Port
+673,INGGO6,ORIENTCRAFT SEZ GGN,Port
+674,INGGP6,SUNWISE SEZ GURGAON,Port
+675,INGGS6,SUNCITY SEZ GURGAON,Port
+676,INGGU6,URP LTD.,Port
+677,INGGV1,GANGAVARAM PORT,Port
+678,INGHA1,Ghogha,Port
+679,INGHC6,ASF INSIGNIA SEZ,Port
+680,INGHPB,Ghasuapara,Port
+681,INGHR6,Garhi Harsaru Gurgao,Port
+682,INGHWB,Gauhati Steamerghat,Port
+683,INGID6,MID PLTD SEZ GURGAON,Port
+684,INGIN6,Gandhidham,Port
+685,INGJIB,Gunji,Port
+686,INGJXB,Ghojadanga,Port
+687,INGKJ2,Golakganj Railway St,Port
+688,INGKJB,Golakganj LCS,Port
+689,INGLY6,APIIC MAHABOOBNAGAR,Port
+690,INGMI6,MID PVT LTD.,Port
+691,INGNA6,"APPL, SEZ",Port
+692,INGNC6,GIFT SEZ LTD,Port
+693,INGNG6,"GIDC, SEZ",Port
+694,INGNL6,LOMA ITPARK GHANSOLI,Port
+695,INGNP6,GPRPL SEZ GURGAON,Port
+696,INGNR6,LIPL/MARRIPLEMGUNTUR,Port
+697,INGNT6,"TCSL, SEZ",Port
+698,INGOI4,Goa,Port
+699,INGOP4,Gorakhpur,Port
+700,INGPB6,PROGRESSIVE GURGAON,Port
+701,INGPR1,Gopalpur,Port
+702,INGRD6,Mumbai DP-II,Port
+703,INGRL6,GPRL SEZ GURGAON,Port
+704,INGRN6,RELIANCE SEZ GURGAON,Port
+705,INGRR6,Mumbai DP-I,Port
+706,INGRS6,RAHEJA SEZ GURGAON,Port
+707,INGRW6,APM ICD BHAMBOLIKHED,Port
+708,INGTGB,Gitaldah road,Port
+709,INGTI6,INFOSYS TECH. LTD.,Port
+710,INGTR2,Guntur,Port
+711,INGTS6,SP PVT. LTD.,Port
+712,INGTZB,Getandah,Port
+713,INGUX4,Guna,Port
+714,INGWL4,Gwalior,Port
+715,INGWL6,Malanpuri (Gwalior),Port
+716,INGWM4,VIJAYAWADA AIRPORT,Port
+717,INHAL1,Haldia,Port
+718,INHAN6,HINDAUN ICD KARAULI,Port
+719,INHAO6,OPTOINFRA/SEZ/HASSAN,Port
+720,INHAS6,HASSAN ICD,Port
+721,INHBB6,SDPL SEZ BENGALURU,Port
+722,INHBX4,Hubli,Port
+723,INHDD6,SIDCUL ICD PANTNAGAR,Port
+724,INHEB6,GOCL SEZ BENGALURU,Port
+725,INHEI6,INFOSYS/SEZ/MYSORE,Port
+726,INHEM6,MEBP/SEZ/BANGALORE,Port
+727,INHGLB,Hingalganj,Port
+728,INHGT1,Hangarkatta,Port
+729,INHIR6,SHB ICD SURAT,Port
+730,INHJR4,Khajuraho,Port
+731,INHLD2,Haldibari Railway St,Port
+732,INHLE6,INFY SEZ BEGURHOBLI,Port
+733,INHLIB,Hilli,Port
+734,INHND1,HEMNAGAR PORT,Port
+735,INHON1,Honavar,Port
+736,INHPI6,SANDKHERA ICD KASHIP,Port
+737,INHRN1,Harnai,Port
+738,INHSF6,KIADBFP SEZ HASSAN,Port
+739,INHSP6,KIADBP SEZ HASSAN,Port
+740,INHSS4,Hissar,Port
+741,INHST6,KIADBT SEZ HASSAN,Port
+742,INHSU6,ICD HOSUR,Port
+743,INHTSB,Hatisar,Port
+744,INHUR6,"M/S RASSI, SEZ",Port
+745,INHWR1,Honawar,Port
+746,INHYB6,LHT PARK PVT. LTD.,Port
+747,INHYD4,Hyderabad,Port
+748,INHYD5,FPO HYDERABAD,Port
+749,INHYD6,Hyderabad,Port
+750,INHZA1,"HAZIRA, SURAT",Port
+751,INHZA6,"Hazira SEZ, Surat",Port
+752,INIDR4,Indore,Port
+753,INIDR6,Indore(EPZ/SEZ),Port
+754,INIGU6,Coimbatore Irugur IC,Port
+755,INILP6,Tiruvallur-ILP ICD,Port
+756,INIMF4,Imphal,Port
+757,ININB6,"CRYSTAL IT PARK, SEZ",Port
+758,ININD6,ICD Pithampur,Port
+759,ININI6,IMPETUS INFOTECH SEZ,Port
+760,ININN6,INFOSYS SEZ INDORE,Port
+761,ININT6,TCS SEZ INDORE,Port
+762,INISK4,Nasik,Port
+763,INISK6,Nasik,Port
+764,INIXA4,Agartala,Port
+765,INIXB4,Bagdogra,Port
+766,INIXC4,Chandigarh,Port
+767,INIXD4,Allahabad,Port
+768,INIXE1,Mangalore,Port
+769,INIXE4,Mangalore,Port
+770,INIXG4,Belgaum,Port
+771,INIXH4,Kailashahar,Port
+772,INIXI4,Lilabari,Port
+773,INIXJ4,Jammu,Port
+774,INIXK4,Keshod,Port
+775,INIXL4,Leh,Port
+776,INIXL5,FPO LEH,Port
+777,INIXM4,Madurai,Port
+778,INIXM6,MaduraiICD,Port
+779,INIXN4,Khowai,Port
+780,INIXP4,Pathankot,Port
+781,INIXQ4,Kamalpur,Port
+782,INIXR4,Ranchi,Port
+783,INIXS4,Silchar,Port
+784,INIXT4,Pasighat,Port
+785,INIXU4,AURANGABAD,Port
+786,INIXW4,Jamshedpur,Port
+787,INIXW6,Jamshedpur ICD,Port
+788,INIXY1,Kandla,Port
+789,INIXY4,Kandla,Port
+790,INIXY6,Kandla SEZ,Port
+791,INIXZ1,Port Blair,Port
+792,INIXZ4,Port Blair,Port
+793,INJAI4,Jaipur,Port
+794,INJAI5,Jaipur,Port
+795,INJAI6,Jaipur,Port
+796,INJAK1,Jakhau,Port
+797,INJAL6,Jalgaon,Port
+798,INJAYB,Jayanagar,Port
+799,INJBD1,Jafrabad,Port
+800,INJBL6,E-COMPLEX SEZ/Amreli,Port
+801,INJBNB,JOGBANI,Port
+802,INJDA1,Jodia,Port
+803,INJDH4,Jodhpur,Port
+804,INJDH6,Jodhpur,Port
+805,INJGA4,Jamnagar,Port
+806,INJGB4,Jagdalpur,Port
+807,INJGD1,Jaigad,Port
+808,INJGI6,GENPACT SEZ JAIPUR,Port
+809,INJHA6,VEDANTA ALU. LTD.,Port
+810,INJHOB,Jhulaghat (Pithoraga,Port
+811,INJHV6,VEDANTASEZJHARSUGUDA,Port
+812,INJIGB,Jaigaon,Port
+813,INJJK6,ICD JSL JAJPUR,Port
+814,INJKA6,SACHANA ICD VIRAMGAM,Port
+815,INJLR4,Jabalpur,Port
+816,INJNJ6,NEWFOUND SEZ THANE,Port
+817,INJNR4,Nashik-Janori ACC,Port
+818,INJNR6,Nashik-Janori ICD,Port
+819,INJPGB,Jalpaiguri,Port
+820,INJPI6,RIICO SEZ 1 SITAPUR,Port
+821,INJPV6,VATIKA SEZ JAIPUR,Port
+822,INJPW6,MWC JAIPUR LTD.,Port
+823,INJRH4,Jorhat,Port
+824,INJSA4,Jaisalmer,Port
+825,INJSG6,CONCOR JHARSUGUDA,Port
+826,INJSM6,ADANI POWER SEZ,Port
+827,INJSZ6,JAIPUR SEZ,Port
+828,INJTP1,Jaitapur,Port
+829,INJUC6,Jalandhar,Port
+830,INJUX6,Basni Jodhpur ICD,Port
+831,INJWAB,Jarwa,Port
+832,INKAK1,Kakinada,Port
+833,INKAK6,Kakinada,Port
+834,INKAL1,Kallai,Port
+835,INKAP6,Kapadra (Surat),Port
+836,INKAR6,Karur ICD,Port
+837,INKAT1,KATTUPALLI PORT,Port
+838,INKBC6,ICD HAZIRA,Port
+839,INKBT1,Khambhat,Port
+840,INKCG6,NSL SEZ PVT. LTD.,Port
+841,INKDD6,Karedu,Port
+842,INKDI1,Kadmat Island,Port
+843,INKDL6,KANDLA SEZ,Port
+844,INKDN1,Kodinar(Muldwarka),Port
+845,INKDP1,Kondiapetnam,Port
+846,INKELB,Kel Sahar Subdivisio,Port
+847,INKGG6,GLOBAL/SEZ/BANGALORE,Port
+848,INKGJ1,KARIMGANJ STEAMERGHA,Port
+849,INKHD6,ICD Kheda-Dhar,Port
+850,INKIW1,Kelwa,Port
+851,INKJA6,APP/SEZ/DODAKANAHALI,Port
+852,INKJB6,BAGMAN/SEZ/BANGALORE,Port
+853,INKJD6,DIVYA/SEZ/BANGALORE,Port
+854,INKJG6,GOPALAN/SEZ/BANGALOR,Port
+855,INKJH6,HCL/SEZ/BANGALORE,Port
+856,INKJIB,PIPRAUN LCS,Port
+857,INKJM6,BD SEZ BENGALURU,Port
+858,INKJR6,BBREL KUNDALAHALLI,Port
+859,INKKR1,Kilakari,Port
+860,INKKU6,Kanakpura Jaipur ICD,Port
+861,INKLB6,BLUE/SEZ/ERNAKULAM,Port
+862,INKLC6,CARB/SEZ/ERNAKULAM,Port
+863,INKLG6,SGS/SEZ/ERNAKULAM,Port
+864,INKLH4,Kohlapur,Port
+865,INKLI6,INFOPARK/SEZ/EKM,Port
+866,INKLK6,KINFRA KANAYANNOOR,Port
+867,INKLM6,MULTISERVCEKALAMBOLI,Port
+868,INKLN6,IT/ITES/SEZ/KALAMBOL,Port
+869,INKLS6,SMART CITY SEZ KOCHI,Port
+870,INKLY1,Kalyan,Port
+871,INKMAB,KULKULI LCS,Port
+872,INKMB1,Kumbharu,Port
+873,INKMI6,INFO SEZ ERNAKULAM,Port
+874,INKML6,DEIPL KURUBARAPALLI,Port
+875,INKND1,Kankudy,Port
+876,INKNK6,INFOPARK SEZ KORATTY,Port
+877,INKNLB,Kunauli,Port
+878,INKNU4,Kanpur,Port
+879,INKNU5,FPO KANPUR,Port
+880,INKNU6,Kanpur,Port
+881,INKOC5,Kochi,Port
+882,INKOD1,Kodinar,Port
+883,INKOI1,Koilthottum,Port
+884,INKOK1,Koka,Port
+885,INKON1,Konarak,Port
+886,INKPK6,CONCOR ICD MIHAN,Port
+887,INKRI1,Krishnapatnam,Port
+888,INKRK1,Karaikal,Port
+889,INKRM6,MADC LTD.,Port
+890,INKRN1,Karanja,Port
+891,INKRP1,Kiranpani,Port
+892,INKRW1,Karwar,Port
+893,INKSG1,Kasargod,Port
+894,INKSH1,Kelshi,Port
+895,INKSP1,Kulasekarapatnam,Port
+896,INKTD1,Kotda,Port
+897,INKTGB,Katarniyaghat,Port
+898,INKTI1,Kiltan Island,Port
+899,INKTRB,Kathihar,Port
+900,INKTT6,Kota,Port
+901,INKTU4,Kota,Port
+902,INKTU6,Kota,Port
+903,INKTW1,Koteshwar,Port
+904,INKTY6,CHEYYAR POCHAMPALLI,Port
+905,INKUK1,KOLLAM PORT,Port
+906,INKUK6,KSITIL/SEZ/KOLLAM,Port
+907,INKUR6,OIIDC SEZ KHURDA,Port
+908,INKUU4,Kulu,Port
+909,INKVI1,Kavi,Port
+910,INKVL1,Kovalam,Port
+911,INKVR6,WFPML SEZ KOVVUR,Port
+912,INKVT1,Kavaratti Island,Port
+913,INKWAB,Khunwa,Port
+914,INKWGB,Khowaighat,Port
+915,INKWHB,KAKRAHAWA LCS,Port
+916,INKXJ2,Karimganj Railway St,Port
+917,INKYM6,KOTTAYAM,Port
+918,INKZE6,E TECH-I/SEZ/THPURAM,Port
+919,INKZP6,E PARK-III/SEZ/T'RAM,Port
+920,INKZT6,E PARK-II/SEZ/TPURAM,Port
+921,INLCH6,HCL IT SEZ LUCKNOW,Port
+922,INLDA4,Malda,Port
+923,INLDH6,Ludhiana,Port
+924,INLGLB,Lalgola Town,Port
+925,INLKO4,Lucknow,Port
+926,INLKQB,LAUKAHA LCS,Port
+927,INLON6,ICD Loni,Port
+928,INLPB6,BBLLP NANAKRAMGUDA,Port
+929,INLPC6,CMC LTD.,Port
+930,INLPD6,"M/S DLF, SEZ",Port
+931,INLPG6,GCPL SEZ KOKAPET,Port
+932,INLPI6,"M/S SUNDEW, SEZ",Port
+933,INLPJ6,RELIANCE SEZ,Port
+934,INLPM6,MDL NANAKRAMGUDA,Port
+935,INLPR1,Leapuram,Port
+936,INLPS6,D NSL IP LTD.,Port
+937,INLPW6,WIPRO LTD. HYDERABAD,Port
+938,INLTBB,Latu Bazar,Port
+939,INLUD6,LUDHIANA,Port
+940,INLUH4,Ludhiana,Port
+941,INLUH5,FPO LUDHIANA,Port
+942,INLUH6,Ludhiana,Port
+943,INLWG6,WIPRO LTD.,Port
+944,INMAA1,Chennai (Ex Madras),Port
+945,INMAA4,Chennai (Ex Madras),Port
+946,INMAA5,Chennai (Ex Madras),Port
+947,INMAA6,Chennai(EPZ/SEZ),Port
+948,INMAB6,BRIGADE/SEZ/KANNADA,Port
+949,INMAE6,EC OF TAMIL NADU,Port
+950,INMAH1,Mahe,Port
+951,INMAI6,INFOSYS/SEZ/MANGALOR,Port
+952,INMAL1,Malpe,Port
+953,INMAP1,Masulipatnam,Port
+954,INMAQ6,MANGALORE SEZ,Port
+955,INMAS6,TRIL INFOPARK LTD.,Port
+956,INMBC6,Moradabad(EPZ/SEZ),Port
+957,INMBD6,Pakwara (Moradabad),Port
+958,INMBS6,Madhosingh ICD,Port
+959,INMCI1,Minicoi I,Port
+960,INMDA1,Magdalla,Port
+961,INMDD6,Mandideep ICD,Port
+962,INMDE6,APIIC SEZ MEDAK,Port
+963,INMDG6,Margao,Port
+964,INMDK1,Muldwarka,Port
+965,INMDP1,Mandapam,Port
+966,INMDU6,KERN ICD MADURAI,Port
+967,INMDV1,Mandvi,Port
+968,INMDW1,Meadows,Port
+969,INMEA6,APIIC-SEZ/ViII-LALGA,Port
+970,INMEC6,EC OF TAMIL NADU,Port
+971,INMGHB,Mahendraganj,Port
+972,INMGR1,Mangrol,Port
+973,INMHA1,Mahuva,Port
+974,INMHDB,Kotawalighat (Mohedi,Port
+975,INMHE1,Mahe,Port
+976,INMHGB,Mahurighat,Port
+977,INMHN2,Mahisashan Railway S,Port
+978,INMKCB,Manikarchar,Port
+979,INMKD6,MIKADO SEZ GURGAON,Port
+980,INMLI1,Maroli,Port
+981,INMLP1,Mallipuram,Port
+982,INMLW1,Malwan,Port
+983,INMNB2,Munabao Railway Stat,Port
+984,INMNR1,Manori,Port
+985,INMNUB,Manu,Port
+986,INMNW1,Mandwa,Port
+987,INMOH4,Mohanbari,Port
+988,INMOR2,Moradabad,Port
+989,INMPC1,TEST,Port
+990,INMPR6,Malanpur ICD,Port
+991,INMQK6,KIADB/SEZ/MANGALORE,Port
+992,INMRA1,Mora,Port
+993,INMRD1,Murad,Port
+994,INMREB,Moreh,Port
+995,INMRG4,Margao,Port
+996,INMRJ6,Miraj,Port
+997,INMRM1,Marmagoa,Port
+998,INMSR6,RENAIS/SEZ/BANGALORE,Port
+999,INMTW1,Metwad,Port
+1000,INMUC6,SCPL/SEZ/MULUND,Port
+1001,INMUL6,Mulund ICD,Port
+1002,INMUN1,Mundra,Port
+1003,INMUR1,Murad,Port
+1004,INMUZ6,MODINAGAR ICD,Port
+1005,INMWA6,ICD Maliwada,Port
+1006,INMYB1,Mayabandar,Port
+1007,INMYL6,L AND T/SEZ/MYSORE,Port
+1008,INMYO6,OPTOINFRA/SEZ/MYSORE,Port
+1009,INMYQ4,Mysore,Port
+1010,INMZA4,Muzaffarnagar,Port
+1011,INMZU4,Muzaffarpur,Port
+1012,INNAG4,Nagpur,Port
+1013,INNAG6,Nagpur,Port
+1014,INNAN1,Nancowrie,Port
+1015,INNAV1,Navlakhi,Port
+1016,INNDA6,Noida(EPZ/SEZ),Port
+1017,INNDC4,Nanded,Port
+1018,INNDG1,Nandgaon,Port
+1019,INNDP1,Tuglakabad,Port
+1020,INNEE1,Neendakara,Port
+1021,INNEL1,Nellore,Port
+1022,INNGB6,BUTIBORI ICD NAGPUR,Port
+1023,INNGKB,NAGARKATA LCS,Port
+1024,INNGO6,OSE SEZ NOIDA,Port
+1025,INNGP6,Nagpur,Port
+1026,INNGRB,Nepalgunj Road,Port
+1027,INNGSB,Village Namgaya Ship,Port
+1028,INNKI6,INDIABULLS NASHIK,Port
+1029,INNKNB,Namkhana,Port
+1030,INNML1,New Mangalore,Port
+1031,INNMTB,Neamati steamer Ghat,Port
+1032,INNNN6,AMRL SEZ NANGUNERI,Port
+1033,INNPGB,Nampong,Port
+1034,INNPT1,Nagapattinam,Port
+1035,INNRP6,AA LTD.,Port
+1036,INNSA1,Jawaharlal Nehru (Nh,Port
+1037,INNSK6,Nasik,Port
+1038,INNTLB,SHERATHANG LCS,Port
+1039,INNTVB,THOOTHIBARI LCS,Port
+1040,INNUR6,Kundli,Port
+1041,INNVB1,Navabunder(with its,Port
+1042,INNVP1,Navaspur,Port
+1043,INNVT1,Nivti,Port
+1044,INNVY4,Neyveli,Port
+1045,INNWP1,Newapur,Port
+1046,INNYP6,APIIC LTD.,Port
+1047,INOKH1,Okha,Port
+1048,INOMN4,Osmanabad,Port
+1049,INOMU1,Old Mundra Port,Port
+1050,INONJ1,Onjal,Port
+1051,INPAB4,Bilaspur,Port
+1052,INPAK6,KSITIL/SEZ/PAYYANOOR,Port
+1053,INPAN1,Panaji Port,Port
+1054,INPAO6,HBS SEZ PANOLI,Port
+1055,INPAP2,Panipat,Port
+1056,INPAT4,Patna,Port
+1057,INPAV1,Pipavav (Victor) Por,Port
+1058,INPAV2,Pipavav (Victor) Por,Port
+1059,INPBD1,Porbandar,Port
+1060,INPBD4,Porbandar,Port
+1061,INPBLB,KAMARDWISA LCS,Port
+1062,INPDD1,Padubidri Minor Port,Port
+1063,INPEK6,EKIPL/SEZ/PUNE,Port
+1064,INPGH4,Pantnagar,Port
+1065,INPHBB,Phulbari,Port
+1066,INPID1,Port Indai,Port
+1067,INPIN1,Pindhara,Port
+1068,INPIT6,ITL/SEZ/PUNE,Port
+1069,INPKD6,IGEL SEZ SETTIPALI,Port
+1070,INPKR6,"ICD PALI, REWARI",Port
+1071,INPMB1,Pamban,Port
+1072,INPMP6,Pimpri,Port
+1073,INPMT6,MTDCCL/SEZ/PUNE,Port
+1074,INPNB6,BTSL SEZ PUNE,Port
+1075,INPNE6,NT PVT. LTD.,Port
+1076,INPNF5,PATNA FPO,Port
+1077,INPNI6,MITTAL SEZ PANIPAT,Port
+1078,INPNJ1,Panjim,Port
+1079,INPNK6,KLPPL PANKI,Port
+1080,INPNL6,PERSIPINA SEZ RAIGAD,Port
+1081,INPNM1,Panambur,Port
+1082,INPNN1,Ponnani,Port
+1083,INPNP6,Babarpur,Port
+1084,INPNQ2,Pune,Port
+1085,INPNQ4,Pune,Port
+1086,INPNQ6,SERUM BIO/SEZ/PUNE,Port
+1087,INPNTB,Panitanki(Naxalbari),Port
+1088,INPNU6,TMSF PVT. LTD.,Port
+1089,INPNV6,ICD Panvel,Port
+1090,INPNY1,Pondicherry,Port
+1091,INPNY4,Pondicherry,Port
+1092,INPNY6,ICD PULICHAPALLAM,Port
+1093,INPPG6,"Patparganj ICD,DELHI",Port
+1094,INPPJ1,Pellet Plant Jetty a,Port
+1095,INPRD6,PREPL SEZ PERUNGUDI,Port
+1096,INPRG1,Purangad,Port
+1097,INPRK6,ICD POWARKHEDA,Port
+1098,INPRT1,Paradeep,Port
+1099,INPSH1,Palshet,Port
+1100,INPSI6,SIPL/SEZ/PUNE,Port
+1101,INPSN6,PERFECT SEZ NOIDA,Port
+1102,INPSP6,NSPL SEZ HINJEWADI,Port
+1103,INPTL6,Patli ICD,Port
+1104,INPTN1,Portonovo,Port
+1105,INPTPB,Petrapole LCS,Port
+1106,INPUA6,AIGP SEZ WAGHOLI,Port
+1107,INPUE6,EON KHARADI SEZ,Port
+1108,INPUI6,KIPPLGDPLSEZ KHARADI,Port
+1109,INPUL1,Pulicat,Port
+1110,INPUM6,MIDC PUNE,Port
+1111,INPUN6,"M/S KBTV PVT., PUNE",Port
+1112,INPUR1,Puri,Port
+1113,INPUT4,Puttaparthi,Port
+1114,INPVL6,Panvel ICD,Port
+1115,INPVS6,SNPIP SEZ TAMBARAM,Port
+1116,INPWL6,PALWAL ICD,Port
+1117,INPYB4,Jeypore,Port
+1118,INPYS6,SIPCOT SEZ ERODE,Port
+1119,INQRP6,ADANI ICD KILARAIPUR,Port
+1120,INQUI1,Quilon,Port
+1121,INRAI6,Raipur,Port
+1122,INRAJ4,Rajkot,Port
+1123,INRAJ6,Rajkot,Port
+1124,INRAM1,Rameshwaram,Port
+1125,INRDP2,Radhikapur Railway S,Port
+1126,INREA6,Rewari,Port
+1127,INRED1,Redi,Port
+1128,INREW4,Rewa,Port
+1129,INRGBB,Old Raghna Bazar,Port
+1130,INRGH4,Balurghat,Port
+1131,INRGJ2,RAIGANJ LCS RLY,Port
+1132,INRGT1,Ranghat Bay,Port
+1133,INRGUB,Ryngku,Port
+1134,INRJA4,Rajahmundry,Port
+1135,INRJI4,Rajouri,Port
+1136,INRJN6,LS PVT. LTD.,Port
+1137,INRJP1,Rajpara,Port
+1138,INRJR1,Rajpuri,Port
+1139,INRKG1,Rajakkamangalam,Port
+1140,INRMD4,Ramagundam,Port
+1141,INRML6,CONCOR ICDNAYARAIPUR,Port
+1142,INRNC5,RANCHI FPO,Port
+1143,INRNG2,Ranaghat Railway Sta,Port
+1144,INRNR1,Ranpar,Port
+1145,INRPL6,Raddipalam,Port
+1146,INRPR4,Raipur,Port
+1147,INRPR6,Raipur,Port
+1148,INRPU5,RAIPUR FPO,Port
+1149,INRRI1,Raili,Port
+1150,INRRK4,Rourkela,Port
+1151,INRTC1,Ratnagiri,Port
+1152,INRTC4,Ratnagiri,Port
+1153,INRTM6,CONCOR ICD RATLAM,Port
+1154,INRUP4,Rupsi,Port
+1155,INRVD1,Revdanda,Port
+1156,INRWR1,Rameshwaram,Port
+1157,INRXLB,Raxaul,Port
+1158,INSABB,Sabroom,Port
+1159,INSAC6,Sachin (Surat),Port
+1160,INSAJ6,NAVKAR ICD UMBERGAON,Port
+1161,INSAL1,Salaya,Port
+1162,INSAS6,INFOSYS SEZ MOHALI,Port
+1163,INSAU6,THAR DRY PORT,Port
+1164,INSBC6,BIOCON SEZ BANGALORE,Port
+1165,INSBH1,Sinbhour,Port
+1166,INSBI6,ICD Sabarmati,Port
+1167,INSBK6,KIADB/SEZ/BANGALORE,Port
+1168,INSBL6,INFOSYS/SEZ/BANGLORE,Port
+1169,INSBW6,WIPRO ELEC/SEZ/BLR,Port
+1170,INSBZ1,SHELLA BAZAR,Port
+1171,INSCH6,SAP-SEZ SURAT,Port
+1172,INSGF6,GRFL ICD SAHNEWAL,Port
+1173,INSHI1,Shirola,Port
+1174,INSHL4,Shillong,Port
+1175,INSHP1,Sinbhour Port,Port
+1176,INSIK1,Sikka,Port
+1177,INSJR6,Surajpur,Port
+1178,INSKD6,ICD KALINGANAGAR,Port
+1179,INSKPB,Sukhia Pokhari,Port
+1180,INSLL6,Singanallur,Port
+1181,INSLR2,Silcher R.M.S. Offic,Port
+1182,INSLRB,Silcher Steamerghat,Port
+1183,INSLT6,SALT LAKE (EPZ/SEZ),Port
+1184,INSLV4,Simla,Port
+1185,INSMK6,KEONICS/SEZ/SHIMOGA,Port
+1186,INSMPB,Srimantapur,Port
+1187,INSMR1,Simor,Port
+1188,INSNA6,ANSAL SEZ SONEPAT,Port
+1189,INSNBB,Sonabarsa,Port
+1190,INSNF6,"ICD, Hyderabad",Port
+1191,INSNG2,Singabad Railway Sta,Port
+1192,INSNI6,"KANECH, ICD SAHNEWAL",Port
+1193,INSNLB,Sonauli,Port
+1194,INSNN6,APIIC LTD.,Port
+1195,INSNR6,ARI LTD.,Port
+1196,INSNS6,NLE PVT. LTD.,Port
+1197,INSPC6,CCLPIL SEZ VIZAG,Port
+1198,INSPE6,ASDI SEZ NELLORE,Port
+1199,INSRE6,Saharanpur,Port
+1200,INSRK6,KSITILA/SEZ/PALI/ALZ,Port
+1201,INSRV1,Surasani-Yanam,Port
+1202,INSSE4,Sholapur,Port
+1203,INSTFB,SIKTA LCS,Port
+1204,INSTIB,Sitai,Port
+1205,INSTM6,MIDC PHALTAN SEZ,Port
+1206,INSTP1,Satpati,Port
+1207,INSTRB,Sutarkandi,Port
+1208,INSTT6,Dadri STTPL CFS,Port
+1209,INSTU6,MIDC SEZ SATARA,Port
+1210,INSTV1,Surat,Port
+1211,INSTV4,Surat,Port
+1212,INSTV6,Surat(EPZ/SEZ),Port
+1213,INSWD1,Shriwardhan,Port
+1214,INSXE6,ELCOT AMMAPALAYAM,Port
+1215,INSXR4,Srinagar,Port
+1216,INSXR5,FPO SRINAGAR,Port
+1217,INSXV4,Salem,Port
+1218,INSXV6,Salem,Port
+1219,INTAD1,Tadri,Port
+1220,INTAS6,SRICITYPVTLTD-SEZ,Port
+1221,INTBC6,CTS PVT. LTD.,Port
+1222,INTBM6,PHPL SEZ KANCHEPURAM,Port
+1223,INTBP6,"SPIPL SEZ, PERUGULTH",Port
+1224,INTBS6,HEXAWARE TECH. LTD.,Port
+1225,INTBT6,TCS LTD.,Port
+1226,INTCR6,"M/S TICS, ICD MATHIL",Port
+1227,INTDE6,Tudiyalur-Coimbatore,Port
+1228,INTEI4,Tezu,Port
+1229,INTEL1,Tellicherry,Port
+1230,INTEN6,SIPCOT GANGAKONDAN,Port
+1231,INTEZ4,Tezpur,Port
+1232,INTGN6,KEIPL/ PUNE,Port
+1233,INTHA6,Thar Dry Port Jodhpu,Port
+1234,INTHL1,Thal,Port
+1235,INTHO6,Tiruppur-Thottiplaya,Port
+1236,INTIR4,Tirupati,Port
+1237,INTIV1,Tiviri,Port
+1238,INTJA1,Talaja,Port
+1239,INTJPB,Tezpur Steamerghat,Port
+1240,INTJV4,Thanjavur,Port
+1241,INTKD2,Tuglakabad,Port
+1242,INTKD6,Tuglakabad,Port
+1243,INTKNB,Tikonia,Port
+1244,INTLG6,Pune-Talegoan ICD,Port
+1245,INTLT6,L&T SBL L&T CHENNAI,Port
+1246,INTMI6,"M/S IFFCO KISAN, SEZ",Port
+1247,INTMP1,Trombay,Port
+1248,INTMX6,"ICD, THIMMAPUR,",Port
+1249,INTNA1,Thana,Port
+1250,INTNC6,CCCL SEZ TUTICORIN,Port
+1251,INTND1,Tondi,Port
+1252,INTNGB,Tungi,Port
+1253,INTNI6,HIPL SEZ,Port
+1254,INTNK1,Tankari,Port
+1255,INTNS6,SSL SEZ TUTICORIN,Port
+1256,INTPH1,Thopputhurai,Port
+1257,INTPJ6,ECTN SEZ TRICHY,Port
+1258,INTPN1,Talpona,Port
+1259,INTRA1,Tranquebar,Port
+1260,INTRL6,ICD Tiruvallur,Port
+1261,INTRP1,Tarapur,Port
+1262,INTRV4,Thiruvananthapuram (,Port
+1263,INTRZ4,Tiruchirapalli,Port
+1264,INTSI6,HVCPL SEZ KADAYAM,Port
+1265,INTTP6,Dadri TTPL,Port
+1266,INTTS1,T.T. SHED (KIDDERPOR,Port
+1267,INTUI6,FCPL SEZ KESAVARAM,Port
+1268,INTUN1,Tuna,Port
+1269,INTUP6,Tirupur,Port
+1270,INTUT1,Tuticorin,Port
+1271,INTUT6,Tuticorin ICD,Port
+1272,INTVC6,KINFRAA SEZ,Port
+1273,INTVT6,ICD TONDIARPET CHENN,Port
+1274,INTYR1,Tirukkadayyur,Port
+1275,INUDI6,SYNEFRA-SEZ/UDUPI,Port
+1276,INUDN6,GHB-SEZ SURAT,Port
+1277,INUDR4,Udaipur,Port
+1278,INUDR6,Udaipur,Port
+1279,INUDZ6,Udaipur,Port
+1280,INUKL6,ETLISL SEZ ERODE,Port
+1281,INULPB,Ultapani,Port
+1282,INULW1,Ulwa,Port
+1283,INUMB1,Umbergoan,Port
+1284,INUMR1,Umarsadi,Port
+1285,INURF6,FAB CITY SPV-SEZ/SRI,Port
+1286,INURG6,GMR HYDTABAD AVIATIO,Port
+1287,INURI6,INDU TECHZONE PVT.,Port
+1288,INURT6,TCS LTD. ADIBATLA,Port
+1289,INUTN1,Uttan,Port
+1290,INVAD1,Vadinar,Port
+1291,INVAL6,Valvada ICD,Port
+1292,INVAP1,Vapi,Port
+1293,INVEN1,Vengurla,Port
+1294,INVEP1,Veppalodai,Port
+1295,INVGA4,Vijayawada,Port
+1296,INVGA5,FPO VIJAYAWADA,Port
+1297,INVGR6,BHOJVA ICD VIRAMGAM,Port
+1298,INVKH6,HIRANANDANI BUIL.,Port
+1299,INVKM1,Valinokkam,Port
+1300,INVLD6,DISH/SEZ/KALYANGADH,Port
+1301,INVLN6,NG REALTY-SEZ/TALUKA,Port
+1302,INVLR6,SIPCOT LTD.,Port
+1303,INVNG1,Vengurla,Port
+1304,INVNS4,Varanasi,Port
+1305,INVNS5,FPO VARANASI,Port
+1306,INVNS6,Varanasi,Port
+1307,INVPI6,Vapi,Port
+1308,INVRD1,Varavda,Port
+1309,INVRU1,Vadarevu,Port
+1310,INVSA6,APIIC (HALL NO.3),Port
+1311,INVSI1,Vansi-Borsi,Port
+1312,INVSK6,APIIC- (HALL NO. 2),Port
+1313,INVSP6,WIPRO SEZRESPUVANIPA,Port
+1314,INVSV1,Varsova,Port
+1315,INVTC6,CHEYYAR VELLORE,Port
+1316,INVTZ1,Visakhapatnam,Port
+1317,INVTZ4,Visakhapatnam,Port
+1318,INVTZ6,Visakhapatnam SEZ,Port
+1319,INVVA1,Veraval,Port
+1320,INVYD1,Vijaydurg,Port
+1321,INVZJ1,Vazhinjam,Port
+1322,INVZM6,DLL SEZ,Port
+1323,INVZR6,M/S DR. REDDY SEZ,Port
+1324,INWAL6,Waluj (Aurangabad),Port
+1325,INWFD6,ICD Bangalore,Port
+1326,INWFI6,INFO/SEZ/BANGALORE,Port
+1327,INWFT6,ITPL SEZ II BENGALUR,Port
+1328,INWGC4,Warrangal,Port
+1329,INWRR6,WARDHA POWER CO LTD,Port
+1330,INYMA6,MODERN ASSET SEZ II,Port
+1331,INYNA6,MOSERN ASSET SEZ I,Port
+1332,INYNK6,KIP/SEZ/N BANGALORE,Port
+1333,INYNL6,L&T CEL SEZ II,Port
+1334,INYNM6,MILESTONE/SEZ/BLR,Port
+1335,INYNT6,L&T CEL SEZ I,Port
+1336,INZIP6,ZIPL-SEZ AHMEDABAD,Port
+1337,BDT,Bangladeshi taka,Currency
+1338,AED,United Arab Emirates dirham,Currency
+1339,AFN,Afghan afghani,Currency
+1340,ALL,Albanian lek,Currency
+1341,AMD,Armenian dram,Currency
+1342,ANG,Netherlands Antillean guilder,Currency
+1343,AOA,Angolan kwanza,Currency
+1344,ARS,Argentine peso,Currency
+1345,AUD,Australian dollar,Currency
+1346,AWG,Aruban florin,Currency
+1347,AZN,Azerbaijani manat,Currency
+1348,BAM,Bosnia and Herzegovina convertible mark,Currency
+1349,BBD,Barbados dollar,Currency
+1350,BDT,Bangladeshi taka,Currency
+1351,BGN,Bulgarian lev,Currency
+1352,BHD,Bahraini dinar,Currency
+1353,BIF,Burundian franc,Currency
+1354,BMD,Bermudian dollar,Currency
+1355,BND,Brunei dollar,Currency
+1356,BOB,Boliviano,Currency
+1357,BOV,Bolivian Mvdol (funds code),Currency
+1358,BRL,Brazilian real,Currency
+1359,BSD,Bahamian dollar,Currency
+1360,BTN,Bhutanese ngultrum,Currency
+1361,BWP,Botswana pula,Currency
+1362,BYN,Belarusian ruble,Currency
+1363,BZD,Belize dollar,Currency
+1364,CAD,Canadian dollar,Currency
+1365,CDF,Congolese franc,Currency
+1366,CHE,WIR Euro (complementary currency),Currency
+1367,CHF,Swiss franc,Currency
+1368,CHW,WIR Franc (complementary currency),Currency
+1369,CLF,Unidad de Fomento (funds code),Currency
+1370,CLP,Chilean peso,Currency
+1371,CNY,Renminbi (Chinese) yuan,Currency
+1372,COP,Colombian peso,Currency
+1373,COU,Unidad de Valor Real (UVR) (funds code),Currency
+1374,CRC,Costa Rican colon,Currency
+1375,CUC,Cuban convertible peso,Currency
+1376,CUP,Cuban peso,Currency
+1377,CVE,Cape Verdean escudo,Currency
+1378,CZK,Czech koruna,Currency
+1379,DJF,Djiboutian franc,Currency
+1380,DKK,Danish krone,Currency
+1381,DOP,Dominican peso,Currency
+1382,DZD,Algerian dinar,Currency
+1383,EGP,Egyptian pound,Currency
+1384,ERN,Eritrean nakfa,Currency
+1385,ETB,Ethiopian birr,Currency
+1386,EUR,Euro,Currency
+1387,FJD,Fiji dollar,Currency
+1388,FKP,Falkland Islands pound,Currency
+1389,GBP,Pound sterling,Currency
+1390,GEL,Georgian lari,Currency
+1391,GHS,Ghanaian cedi,Currency
+1392,GIP,Gibraltar pound,Currency
+1393,GMD,Gambian dalasi,Currency
+1394,GNF,Guinean franc,Currency
+1395,GTQ,Guatemalan quetzal,Currency
+1396,GYD,Guyanese dollar,Currency
+1397,HKD,Hong Kong dollar,Currency
+1398,HNL,Honduran lempira,Currency
+1399,HRK,Croatian kuna,Currency
+1400,HTG,Haitian gourde,Currency
+1401,HUF,Hungarian forint,Currency
+1402,IDR,Indonesian rupiah,Currency
+1403,ILS,Israeli new shekel,Currency
+1404,INR,Indian rupee,Currency
+1405,IQD,Iraqi dinar,Currency
+1406,IRR,Iranian rial,Currency
+1407,ISK,Icelandic króna,Currency
+1408,JMD,Jamaican dollar,Currency
+1409,JOD,Jordanian dinar,Currency
+1410,JPY,Japanese yen,Currency
+1411,KES,Kenyan shilling,Currency
+1412,KGS,Kyrgyzstani som,Currency
+1413,KHR,Cambodian riel,Currency
+1414,KMF,Comoro franc,Currency
+1415,KPW,North Korean won,Currency
+1416,KRW,South Korean won,Currency
+1417,KWD,Kuwaiti dinar,Currency
+1418,KYD,Cayman Islands dollar,Currency
+1419,KZT,Kazakhstani tenge,Currency
+1420,LAK,Lao kip,Currency
+1421,LBP,Lebanese pound,Currency
+1422,LKR,Sri Lankan rupee,Currency
+1423,LRD,Liberian dollar,Currency
+1424,LSL,Lesotho loti,Currency
+1425,LYD,Libyan dinar,Currency
+1426,MAD,Moroccan dirham,Currency
+1427,MDL,Moldovan leu,Currency
+1428,MGA,Malagasy ariary,Currency
+1429,MKD,Macedonian denar,Currency
+1430,MMK,Myanmar kyat,Currency
+1431,MNT,Mongolian tögrög,Currency
+1432,MOP,Macanese pataca,Currency
+1433,MRU,Mauritanian ouguiya,Currency
+1434,MUR,Mauritian rupee,Currency
+1435,MVR,Maldivian rufiyaa,Currency
+1436,MWK,Malawian kwacha,Currency
+1437,MXN,Mexican peso,Currency
+1438,MXV,Mexican Unidad de Inversion (UDI) (funds code),Currency
+1439,MYR,Malaysian ringgit,Currency
+1440,MZN,Mozambican metical,Currency
+1441,NAD,Namibian dollar,Currency
+1442,NGN,Nigerian naira,Currency
+1443,NIO,Nicaraguan córdoba,Currency
+1444,NOK,Norwegian krone,Currency
+1445,NPR,Nepalese rupee,Currency
+1446,NZD,New Zealand dollar,Currency
+1447,OMR,Omani rial,Currency
+1448,PAB,Panamanian balboa,Currency
+1449,PEN,Peruvian sol,Currency
+1450,PGK,Papua New Guinean kina,Currency
+1451,PHP,Philippine peso,Currency
+1452,PKR,Pakistani rupee,Currency
+1453,PLN,Polish zloty,Currency
+1454,PYG,Paraguayan guaraní,Currency
+1455,QAR,Qatari riyal,Currency
+1456,RON,Romanian leu,Currency
+1457,RSD,Serbian dinar,Currency
+1458,RUB,Russian ruble,Currency
+1459,RWF,Rwandan franc,Currency
+1460,SAR,Saudi riyal,Currency
+1461,SBD,Solomon Islands dollar,Currency
+1462,SCR,Seychelles rupee,Currency
+1463,SDG,Sudanese pound,Currency
+1464,SEK,Swedish krona/kronor,Currency
+1465,SGD,Singapore dollar,Currency
+1466,SHP,Saint Helena pound,Currency
+1467,SLL,Sierra Leonean leone,Currency
+1468,SOS,Somali shilling,Currency
+1469,SRD,Surinamese dollar,Currency
+1470,SSP,South Sudanese pound,Currency
+1471,STN,São Tomé and Príncipe dobra,Currency
+1472,SVC,Salvadoran colón,Currency
+1473,SYP,Syrian pound,Currency
+1474,SZL,Swazi lilangeni,Currency
+1475,THB,Thai baht,Currency
+1476,TJS,Tajikistani somoni,Currency
+1477,TMT,Turkmenistan manat,Currency
+1478,TND,Tunisian dinar,Currency
+1479,TOP,Tongan pa?anga,Currency
+1480,TRY,Turkish lira,Currency
+1481,TTD,Trinidad and Tobago dollar,Currency
+1482,TWD,New Taiwan dollar,Currency
+1483,TZS,Tanzanian shilling,Currency
+1484,UAH,Ukrainian hryvnia,Currency
+1485,UGX,Ugandan shilling,Currency
+1486,USD,United States dollar,Currency
+1487,USN,United States dollar (next day) (funds code),Currency
+1488,UYI,Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code),Currency
+1489,UYU,Uruguayan peso,Currency
+1490,UYW,Unidad previsional,Currency
+1491,UZS,Uzbekistan som,Currency
+1492,VES,Venezuelan bolívar soberano,Currency
+1493,VND,Vietnamese d?ng,Currency
+1494,VUV,Vanuatu vatu,Currency
+1495,WST,Samoan tala,Currency
+1496,XAF,CFA franc BEAC,Currency
+1497,XAG,Silver (one troy ounce),Currency
+1498,XAU,Gold (one troy ounce),Currency
+1499,XBA,European Composite Unit (EURCO) (bond market unit),Currency
+1500,XBB,European Monetary Unit (E.M.U.-6) (bond market unit),Currency
+1501,XBC,European Unit of Account 9 (E.U.A.-9) (bond market unit),Currency
+1502,XBD,European Unit of Account 17 (E.U.A.-17) (bond market unit),Currency
+1503,XCD,East Caribbean dollar,Currency
+1504,XDR,Special drawing rights,Currency
+1505,XOF,CFA franc BCEAO,Currency
+1506,XPD,Palladium (one troy ounce),Currency
+1507,XPF,CFP franc (franc Pacifique),Currency
+1508,XPT,Platinum (one troy ounce),Currency
+1509,XSU,SUCRE,Currency
+1510,XTS,Code reserved for testing,Currency
+1511,XUA,ADB Unit of Account,Currency
+1512,XXX,No currency,Currency
+1513,YER,Yemeni rial,Currency
+1514,ZAR,South African rand,Currency
+1515,ZMW,Zambian kwacha,Currency
+1516,ZWL,Zimbabwean dollar,Currency

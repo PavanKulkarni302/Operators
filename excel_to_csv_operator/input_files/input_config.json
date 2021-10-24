@@ -1,0 +1,22 @@
+{
+ "outputFilePath": null,
+ "execVersion": null,
+ "saveVersion": null,
+ "otherParams": {
+     "inputFilePath": "C:/Users/Pavan/Desktop/inferyx_pycharm/excel_csv/input_files/input_data_files/",
+     "outputFolderPath": "C:/Users/Pavan/Desktop/inferyx_pycharm/excel_csv/output_file/",
+     "sheetName":"Upload_File",
+     "fileType": "csv",
+     "sourceDsDetails": {
+     "sourcePort": "3306",
+     "sourcePassword": "inferyx",
+     "sourceHostName": "192.168.1.21",
+     "sourceDsType": "MYSQL",
+     "sourceUserName": "inferyx",
+     "query": "SELECT rowindex  AS rowindex, supplier_legal_name  AS supplier_legal_name, total_invoice_value_inr  AS total_invoice_value_inr, document_num  AS document_num, document_date  AS document_date, supplier_gstin  AS supplier_gstin, item_igst_amt  AS item_igst_amt, item_cgst_amt  AS item_cgst_amt, item_sgst_amt  AS item_sgst_amt, item_cess_rate  AS item_cess_rate FROM framework_gtax.stg_invoice_data4",
+     "sourceDbName": "framework_gtax"
+   },
+   "execVersion": "1630004950"
+ },
+ "targetDsDetails": null
+}

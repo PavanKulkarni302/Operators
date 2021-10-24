@@ -1,0 +1,636 @@
+Port Code,Port,State,Port Code Details
+INCNB1,Car-Nicobar,Andaman and Nicobar,Port code for Car-Nicobar is INCNB1
+INCRN1,Cornwallis,Andaman and Nicobar,Port code for Cornwallis is INCRN1
+INMYB1,Mayabandar,Andaman and Nicobar,Port code for Mayabandar is INMYB1
+INESH1,Elphinstone Harbour,Andaman and Nicobar,Port code for Elphinstone Harbour is INESH1
+INRGT1,Ranghat Bay,Andaman and Nicobar,Port code for Ranghat Bay is INRGT1
+INMDW1,Meadows,Andaman and Nicobar,Port code for Meadows is INMDW1
+INNAN1,Nancowrie,Andaman and Nicobar Isl.,Port code for Nancowrie is INNAN1
+INIXZ1,Port Blair,Andaman and Nicobar Isl.,Port code for Port Blair is INIXZ1
+INIXZ4,Port Blair,Andaman and Nicobar Isl.,Port code for Port Blair is INIXZ4
+INHYD4,Hyderabad Air Cargo,Andhra Pradesh,Port code for Hyderabad Air Cargo is INHYD4
+INBNP1,Bheemunipatnam,Andhra Pradesh,Port code for Bheemunipatnam is INBNP1
+INNVP1,Navaspur,Andhra Pradesh,Port code for Navaspur is INNVP1
+INVTZ1,Vizac Sea,Andhra Pradesh,Port code for Vizac Sea is INVTZ1
+INSRV1,Surasani – Yanam,Andhra Pradesh,Port code for Surasani – Yanam is INSRV1
+INVTZ6,Visakhapatnam (EPZ/SEZ),Andhra Pradesh,Port code for Visakhapatnam (EPZ/SEZ) is INVTZ6
+INVRU1,Vadarevu,Andhra Pradesh,Port code for Vadarevu is INVRU1
+INKAK1,Kakinada,Andhra Pradesh,Port code for Kakinada is INKAK1
+INRPL6,Raddipalem,Andhra Pradesh,Port code for Raddipalem is INRPL6
+INKDD6,Karedu,Andhra Pradesh,Port code for Karedu is INKDD6
+INVTZ4,Vishakapatnam,Andhra Pradesh,Port code for Vishakapatnam is INVTZ4
+INAPT6,Anaparthi,Andhra Pradesh,Port code for Anaparthi is INAPT6
+INCLX6,Chirala,Andhra Pradesh,Port code for Chirala is INCLX6
+INSNF6,Hyderabad,Andhra Pradesh,Port code for Hyderabad is INSNF6
+INCOI6,Kakinada,Andhra Pradesh,Port code for Kakinada is INCOI6
+INMAP1,Masulipatnam,Andhra Pradesh,Port code for Masulipatnam is INMAP1
+INKRI1,Krishnapatnam,Andhra Pradesh,Port code for Krishnapatnam is INKRI1
+INAKP6,APIICL SEZ/Visakhapatnam,Andhra Pradesh,Port code for APIICL SEZ/Visakhapatnam is INAKP6
+INTNI6,HIPL SEZ/Visakhapatnam,Andhra Pradesh,Port code for HIPL SEZ/Visakhapatnam is INTNI6
+INAKR6,RPCIPL SEZ/Visakhapatnam,Andhra Pradesh,Port code for RPCIPL SEZ/Visakhapatnam is INAKR6
+INVZM6,DLL SEZ/Visakhapatnam,Andhra Pradesh,Port code for DLL SEZ/Visakhapatnam is INVZM6
+INAKB6,BIACPL SEZ/Visakhapatnam,Andhra Pradesh,Port code for BIACPL SEZ/Visakhapatnam is INAKB6
+INNRP6,AAL-SEZ/Visakhapatnam,Andhra Pradesh,Port code for AAL-SEZ/Visakhapatnam is INNRP6
+INMOV6,VBTL-SEZ/Medak,Andhra Pradesh,Port code for VBTL-SEZ/Medak is INMOV6
+INKVR6,WFPML-SEZ/KOVVUR,Andhra Pradesh,Port code for WFPML-SEZ/KOVVUR is INKVR6
+INFMA6,APIICL/Medak District,Andhra Pradesh,Port code for APIICL/Medak District is INFMA6
+INFMH6,hgsezl/Ranga Reddy,Andhra Pradesh,Port code for hgsezl/Ranga Reddy is INFMH6
+INCOA6,KSPL-SEZ/KAKINADA,Andhra Pradesh,Port code for KSPL-SEZ/KAKINADA is INCOA6
+INGLY6,APIICL-SEZ/MAHABOOBNAGAR,Andhra Pradesh,Port code for APIICL-SEZ/MAHABOOBNAGAR is INGLY6
+INSPE6,ASDIPL-SEZ/NELLORE,Andhra Pradesh,Port code for ASDIPL-SEZ/NELLORE is INSPE6
+INCOP6,PICPL-SEZ/KAKINADA,Andhra Pradesh,Port code for PICPL-SEZ/KAKINADA is INCOP6
+INMDE6,APIICL SEZ/MEDAK,Andhra Pradesh,Port code for APIICL SEZ/MEDAK is INMDE6
+INKOH6,RLL-SEZ/Medak,Andhra Pradesh,Port code for RLL-SEZ/Medak is INKOH6
+INURF 6,FAB CITY SPV Distt. Ranga Reddy,Andhra Pradesh,Port code for FAB CITY SPV Distt. Ranga Reddy is INURF 6
+INMEA 6,APIIC-SEZ/Vill-Lalgadi Distt.-Ranga,Andhra Pradesh,Port code for APIIC-SEZ/Vill-Lalgadi Distt.-Ranga is INMEA 6
+IN DBS 6,SANTA-SEZ/Vill-Muppireddipally,Andhra Pradesh,Port code for SANTA-SEZ/Vill-Muppireddipally is IN DBS 6
+IN URG 6,GMR Hyderabad,Andhra Pradesh,Port code for GMR Hyderabad is IN URG 6
+IN TAS 6,Sri City Private Limited,Andhra Pradesh,Port code for Sri City Private Limited is IN TAS 6
+IN GNR 6,"LIPL-ICD/Marripalem, Guntur",Andhra Pradesh,"Port code for LIPL-ICD/Marripalem, Guntur is IN GNR 6"
+IN FMS 6,Stargaze/Rangareddy/SEZ,Andhra Pradesh,Port code for Stargaze/Rangareddy/SEZ is IN FMS 6
+IN FMJ 6,J T/SEZ/Rangareddy,Andhra Pradesh,Port code for J T/SEZ/Rangareddy is IN FMJ 6
+IN LPI 6,Sundew/SEZ/Rangareddy,Andhra Pradesh,Port code for Sundew/SEZ/Rangareddy is IN LPI 6
+IN LPD 6,DLF/SEZ/Rangareddy,Andhra Pradesh,Port code for DLF/SEZ/Rangareddy is IN LPD 6
+IN TMI 6,IIFFCO/SEZ/Nellore,Andhra Pradesh,Port code for IIFFCO/SEZ/Nellore is IN TMI 6
+IN HUR 6,Rassi/SEZ/Anantpur,Andhra Pradesh,Port code for Rassi/SEZ/Anantpur is IN HUR 6
+IN VZR 6,Reddy’r/SEZ/Srikakulam,Andhra Pradesh,Port code for Reddy’r/SEZ/Srikakulam is IN VZR 6
+IN CDP 6,APIIC/SEZ/Cuddapah,Andhra Pradesh,Port code for APIIC/SEZ/Cuddapah is IN CDP 6
+INTMX6,M/s CONTINENTAL MULTIMODAL,Andhra Pradesh,Port code for M/s CONTINENTAL MULTIMODAL is INTMX6
+INNPGB,TNEaRmMpIoNnAgLS LTD.,Arunachal Pradesh,Port code for TNEaRmMpIoNnAgLS LTD. is INNPGB
+INDRGB,Darranga,Assam,Port code for Darranga is INDRGB
+INGAU4,Gauhati,Assam,Port code for Gauhati is INGAU4
+INGHWB,Gauhati Steamerghat,Assam,Port code for Gauhati Steamerghat is INGHWB
+INDHBB,Dhubri Steamerghat,Assam,Port code for Dhubri Steamerghat is INDHBB
+INGTGB,Gitaldah road,Assam,Port code for Gitaldah road is INGTGB
+INGKJ2,Golakganj Raiiway Station,Assam,Port code for Golakganj Raiiway Station is INGKJ2
+INHTSB,Hatisar,Assam,Port code for Hatisar is INHTSB
+INKGJB,Karimganj Steamerghat and Ferry,Assam,Port code for Karimganj Steamerghat and Ferry is INKGJB
+INSTRB,Sutarkandi,Assam,Port code for Sutarkandi is INSTRB
+INSLRB,Silcher Steamerghat,Assam,Port code for Silcher Steamerghat is INSLRB
+INSLR2,Silcher R.M.S. Office,Assam,Port code for Silcher R.M.S. Office is INSLR2
+INPHBB,Phulbari,Assam,Port code for Phulbari is INPHBB
+INNMTB,Neamati steamer Ghat,Assam,Port code for Neamati steamer Ghat is INNMTB
+INMNUB,Manu,Assam,Port code for Manu is INMNUB
+INMKCB,Manikarchar,Assam,Port code for Manikarchar is INMKCB
+INMHN2,Mahisashan Railway Station,Assam,Port code for Mahisashan Railway Station is INMHN2
+INLTBB,Latu Bazar,Assam,Port code for Latu Bazar is INLTBB
+INULPB,Ultapani,Assam,Port code for Ultapani is INULPB
+INTJPB,Tezpur Steamerghat,Assam,Port code for Tezpur Steamerghat is INTJPB
+INKXJ2,Karimganj Railway Station,Assam,Port code for Karimganj Railway Station is INKXJ2
+INHLD2,Haldibari Railway Station,Assam,Port code for Haldibari Railway Station is INHLD2
+INGKJB,Golakganj (LCS ),Assam,Port code for Golakganj (LCS ) is INGKJB
+INAMG6,Amingaon(Gauhati),Assam,Port code for Amingaon(Gauhati) is INAMG6
+INRXL8,Rexaul,Bihar,Port code for Rexaul is INRXL8
+INGALB,Galgalia,Bihar,Port code for Galgalia is INGALB
+INJBNB,Jogbani,Bihar,Port code for Jogbani is INJBNB
+INSNBB,Sonabarsa,Bihar,Port code for Sonabarsa is INSNBB
+INRXLB,Raxaul,Bihar,Port code for Raxaul is INRXLB
+INKNLB,Kunauli,Bihar,Port code for Kunauli is INKNLB
+INKTRB,Kathihar,Bihar,Port code for Kathihar is INKTRB
+INJAYB,Jayanagar,Bihar,Port code for Jayanagar is INJAYB
+INBTMB,Bhithamore(Sursnad),Bihar,Port code for Bhithamore(Sursnad) is INBTMB
+INBGUB,Bairgania,Bihar,Port code for Bairgania is INBGUB
+INBNRB,Bhimnagar,Bihar,Port code for Bhimnagar is INBNRB
+INGAY4,Gaya,Bihar,Port code for Gaya is INGAY4
+INPAT4,Patna,Bihar,Port code for Patna is INPAT4
+INRAI6,Raipur,Chhattisgarh,Port code for Raipur is INRAI6
+INRJN6,M/s LANCO SOLAR PRIVATE LTD.,Chhattisgarh,Port code for M/s LANCO SOLAR PRIVATE LTD. is INRJN6
+INDAM1,Daman & Diu,Daman &Diu,Port code for Daman & Diu is INDAM1
+INSHP1,Sinbhour Port,Daman and Diu,Port code for Sinbhour Port is INSHP1
+INDEL4,Delhi Air Cargo,Delhi,Port code for Delhi Air Cargo is INDEL4
+INDLI2,Delhi Railway Station,Delhi,Port code for Delhi Railway Station is INDLI2
+INTKD6,Tughlakabad,Delhi,Port code for Tughlakabad is INTKD6
+INPPG6,Patparganj,Delhi,Port code for Patparganj is INPPG6
+INMRM1,Goa Sea,Goa,Port code for Goa Sea is INMRM1
+INTPN1,Talpona,Goa,Port code for Talpona is INTPN1
+INPPJ1,Pellet Plant Jetty at Shiroda,Goa,Port code for Pellet Plant Jetty at Shiroda is INPPJ1
+INPNJ1,Panjim,Goa,Port code for Panjim is INPNJ1
+INCHR1,Chapora,Goa,Port code for Chapora is INCHR1
+INBET1,Betul,Goa,Port code for Betul is INBET1
+INMDG6,Margao,Goa,Port code for Margao is INMDG6
+INGOI4,Dabolim,Goa,Port code for Dabolim is INGOI4
+INPAN1,Panaji Port,Goa,Port code for Panaji Port is INPAN1
+INSBI6,Sabarmati ICD,Gujarat,Port code for Sabarmati ICD is INSBI6
+INPAV1,Pipavav(Victor) Port,Gujarat,Port code for Pipavav(Victor) Port is INPAV1
+INBED1,Bedi(Including Rozi-Jamnagar),Gujarat,Port code for Bedi(Including Rozi-Jamnagar) is INBED1
+INBGW1,Bhagwa,Gujarat,Port code for Bhagwa is INBGW1
+INKDN1,Kodinar(Muldwarka),Gujarat,Port code for Kodinar(Muldwarka) is INKDN1
+INKVI1,Kavi,Gujarat,Port code for Kavi is INKVI1
+INGHA1,Ghogha,Gujarat,Port code for Ghogha is INGHA1
+INGIN6,Gandhidham,Gujarat,Port code for Gandhidham is INGIN6
+INDRK1,Dwarka (Rupen),Gujarat,Port code for Dwarka (Rupen) is INDRK1
+INDHR1,Dholera,Gujarat,Port code for Dholera is INDHR1
+INCMB1,Cambay,Gujarat,Port code for Cambay is INCMB1
+INBSR1,Bulsar,Gujarat,Port code for Bulsar is INBSR1
+INBLM1,Bilimora,Gujarat,Port code for Bilimora is INBLM1
+INHZA6,Hazira SEZ / Surat,Gujarat,Port code for Hazira SEZ / Surat is INHZA6
+INBHD6,Dahez SEZ,Gujarat,Port code for Dahez SEZ is INBHD6
+INLPJ6,Reliance SEZ/ Jamnagar,Gujarat,Port code for Reliance SEZ/ Jamnagar is INLPJ6
+INBCO6,Euro Multivision Bhachau SEZ / Kutch,Gujarat,Port code for Euro Multivision Bhachau SEZ / Kutch is INBCO6
+INAJE6,Welspun Anjar SEZ / Anjar,Gujarat,Port code for Welspun Anjar SEZ / Anjar is INAJE6
+INJBL6,E-Complex SEZ / Amreli,Gujarat,Port code for E-Complex SEZ / Amreli is INJBL6
+INKDL6,Kandla SEZ / Gandhidham,Gujarat,Port code for Kandla SEZ / Gandhidham is INKDL6
+INVAL6,Valvada ICD,Gujarat,Port code for Valvada ICD is INVAL6
+INSBH1,Sinbhour,Gujarat,Port code for Sinbhour is INSBH1
+INSMR1,Simor,Gujarat,Port code for Simor is INSMR1
+INRJP1,Rajpara,Gujarat,Port code for Rajpara is INRJP1
+INONJ1,Onjal,Gujarat,Port code for Onjal is INONJ1
+INOMU1,Old Mundra,Gujarat,Port code for Old Mundra is INOMU1
+INNVB1,Navabunder,Gujarat,Port code for Navabunder is INNVB1
+INMTW1,Metwad,Gujarat,Port code for Metwad is INMTW1
+INKTW1,Koteshwar,Gujarat,Port code for Koteshwar is INKTW1
+INKTD1,Kotda,Gujarat,Port code for Kotda is INKTD1
+INUMR1,Umarsadi,Gujarat,Port code for Umarsadi is INUMR1
+INTNK1,T ankari,Gujarat,Port code for T ankari is INTNK1
+INBYT1,Beyt,Gujarat,Port code for Beyt is INBYT1
+INADA6,Adalaj,Gujarat,Port code for Adalaj is INADA6
+INBHU1,Bhavanagar,Gujarat,Port code for Bhavanagar is INBHU1
+INDIV1,Div,Gujarat,Port code for Div is INDIV1
+INIXY1,Kandla,Gujarat,Port code for Kandla is INIXY1
+INJBD1,Jafrabad,Gujarat,Port code for Jafrabad is INJBD1
+INUMB1,Umbergoan,Gujarat,Port code for Umbergoan is INUMB1
+INTUN1,Tuna,Gujarat,Port code for Tuna is INTUN1
+INTJA1,Talaja,Gujarat,Port code for Talaja is INTJA1
+INSIK1,Sikka,Gujarat,Port code for Sikka is INSIK1
+INSAL1,Salaya,Gujarat,Port code for Salaya is INSAL1
+INPIN1,Pindhara,Gujarat,Port code for Pindhara is INPIN1
+INPBD1,Porbandar,Gujarat,Port code for Porbandar is INPBD1
+INOKH1,Okha,Gujarat,Port code for Okha is INOKH1
+INNAV1,Navlakhi,Gujarat,Port code for Navlakhi is INNAV1
+INRAJ6,Rajkot,Gujarat,Port code for Rajkot is INRAJ6
+INVPI6,Vapi,Gujarat,Port code for Vapi is INVPI6
+INSTV6,Surat (EPZ/SEZ),Gujarat,Port code for Surat (EPZ/SEZ) is INSTV6
+INIXY6,Kandla (EPZ/SEZ),Gujarat,Port code for Kandla (EPZ/SEZ) is INIXY6
+INSAC6,Sachin(Surat),Gujarat,Port code for Sachin(Surat) is INSAC6
+INKAP6,Kapadra(Surat),Gujarat,Port code for Kapadra(Surat) is INKAP6
+INBRC6,Baroda,Gujarat,Port code for Baroda is INBRC6
+INAMD5,Amhedabad,Gujarat,Port code for Amhedabad is INAMD5
+INAMD4,Ahmedabad,Gujarat,Port code for Ahmedabad is INAMD4
+INALA1,ALANG SBY,Gujarat,Port code for ALANG SBY is INALA1
+INMDV1,Mandvi,Gujarat,Port code for Mandvi is INMDV1
+INVVA1,Veraval,Gujarat,Port code for Veraval is INVVA1
+INVSI1,Vansi-Borsi,Gujarat,Port code for Vansi-Borsi is INVSI1
+INVAD1,Vadinar,Gujarat,Port code for Vadinar is INVAD1
+INMUN1,Mundra,Gujarat,Port code for Mundra is INMUN1
+INMLI1,Maroli,Gujarat,Port code for Maroli is INMLI1
+INMHA1,Mahuva,Gujarat,Port code for Mahuva is INMHA1
+INMGR1,Mangrol,Gujarat,Port code for Mangrol is INMGR1
+INMDK1,Muldwarka,Gujarat,Port code for Muldwarka is INMDK1
+INMDA1,Magdalla,Gujarat,Port code for Magdalla is INMDA1
+INKOK1,Koka,Gujarat,Port code for Koka is INKOK1
+INJDA1,Jodia,Gujarat,Port code for Jodia is INJDA1
+INJAK1,Jakhau,Gujarat,Port code for Jakhau is INJAK1
+INGGA1,Gogha,Gujarat,Port code for Gogha is INGGA1
+INDAH1,Dahej,Gujarat,Port code for Dahej is INDAH1
+INBRH1,Broach,Gujarat,Port code for Broach is INBRH1
+INAKV6,Ankleshwar,Gujarat,Port code for Ankleshwar is INAKV6
+INCHN6,Vadodara – Chhani,Gujarat,Port code for Vadodara – Chhani is INCHN6
+INSAU6,Thar Dry Port – Ahemdabad ICD,Gujarat,Port code for Thar Dry Port – Ahemdabad ICD is INSAU6
+INUDN6,GHB-SEZ/SURAT,Gujarat,Port code for GHB-SEZ/SURAT is INUDN6
+INAJM6,Mundra Port SEZ,Gujarat,Port code for Mundra Port SEZ is INAJM6
+INSCH6,SAP-SEZ/SURAT,Gujarat,Port code for SAP-SEZ/SURAT is INSCH6
+INAPI6,AAP-SEZ/AHMEDABAD,Gujarat,Port code for AAP-SEZ/AHMEDABAD is INAPI6
+INGNG6,GIDC-SEZ/GANDHINAGAR,Gujarat,Port code for GIDC-SEZ/GANDHINAGAR is INGNG6
+INADG6,GIPL-SEZ/AHMEDABAD,Gujarat,Port code for GIPL-SEZ/AHMEDABAD is INADG6
+INADC6,CCIPL-SEZ/AHMEDABAD,Gujarat,Port code for CCIPL-SEZ/AHMEDABAD is INADC6
+INZIP6,ZIPL-SEZ/AHMEDABAD,Gujarat,Port code for ZIPL-SEZ/AHMEDABAD is INZIP6
+INGNS6,SREHPL-SEZ/GANDHINAGAR,Gujarat,Port code for SREHPL-SEZ/GANDHINAGAR is INGNS6
+INADM6,MRPL-SEZ/AHMEDABAD,Gujarat,Port code for MRPL-SEZ/AHMEDABAD is INADM6
+INADR6,CGRPL-SEZ/AHMEDABAD,Gujarat,Port code for CGRPL-SEZ/AHMEDABAD is INADR6
+INGNT6,TCS-SEZ/GANDHINAGAR,Gujarat,Port code for TCS-SEZ/GANDHINAGAR is INGNT6
+INBHS6,Sterling – SEZ / Bharuch,Gujarat,Port code for Sterling – SEZ / Bharuch is INBHS6
+IN VLN 6,NG REALTY- SEZ/Taluka Bavla Distt.,Gujarat,Port code for NG REALTY- SEZ/Taluka Bavla Distt. is IN VLN 6
+INBRS6,SAhE m&e Cd aLbTaD.d- SEZ /WAGHODIA,Gujarat,Port code for SAhE m&e Cd aLbTaD.d- SEZ /WAGHODIA is INBRS6
+IN BHC 6,Jubilant-Chemical-SEZ/Vilayat,Gujarat,Port code for Jubilant-Chemical-SEZ/Vilayat is IN BHC 6
+IN VLD 6,Dishman-Pharmaceutical-,Gujarat,Port code for Dishman-Pharmaceutical- is IN VLD 6
+IN HZR 6,Surat ICD,Gujarat,Port code for Surat ICD is IN HZR 6
+IN BRL 6,L and T ltd./SEZ/Vadodara,Gujarat,Port code for L and T ltd./SEZ/Vadodara is IN BRL 6
+IN KBC6,M/s Kribhco Infrastructure Ltd.,Gujarat,Port code for M/s Kribhco Infrastructure Ltd. is IN KBC6
+IN HZA1,HAZIRA PORT/SURAT,Gujarat,Port code for HAZIRA PORT/SURAT is IN HZA1
+INGNA6,APPL SEZ/Gandhinagar,Gujarat,Port code for APPL SEZ/Gandhinagar is INGNA6
+INGNC6,GIFT SEZ/Gandhinagar,Gujarat,Port code for GIFT SEZ/Gandhinagar is INGNC6
+INKBC6,KRIL ICD / HAZIRA,Gujarat,Port code for KRIL ICD / HAZIRA is INKBC6
+INGAO6,OPGS SEZ / Gandhidham,Gujarat,Port code for OPGS SEZ / Gandhidham is INGAO6
+INBDM6,"PANCHI GUJARAN, Sonepat ICD",Haryana,"Port code for PANCHI GUJARAN, Sonepat ICD is INBDM6"
+INGHR6,Garhi Harsaru – Gurgaon ICD,Haryana,Port code for Garhi Harsaru – Gurgaon ICD is INGHR6
+INREA6,Rewari,Haryana,Port code for Rewari is INREA6
+INPTL6,Patli ICD,Haryana,Port code for Patli ICD is INPTL6
+INNUR6,Kundli,Haryana,Port code for Kundli is INNUR6
+INPNP6,Babarpur,Haryana,Port code for Babarpur is INPNP6
+INFBD6,Faridabad,Haryana,Port code for Faridabad is INFBD6
+INBVC6,CONCOR-ICD/BALLABHGARH,Haryana,Port code for CONCOR-ICD/BALLABHGARH is INBVC6
+IN BFR 6,Piyala/Ballabhgarh ICD,Haryana,Port code for Piyala/Ballabhgarh ICD is IN BFR 6
+INCDD6,DCA-I SEZ/CHANDIGARH,Haryana,Port code for DCA-I SEZ/CHANDIGARH is INCDD6
+INCDC6,DCA-II SEZ/CHANDIGARH,Haryana,Port code for DCA-II SEZ/CHANDIGARH is INCDC6
+INPKR6,KRIL ICD/PALI,Haryana,Port code for KRIL ICD/PALI is INPKR6
+INNGSB,Village Namgaya Shipkila,Himachal Pradesh,Port code for Village Namgaya Shipkila is INNGSB
+INSXR4,Srinagar,Jammu & Kashmir,Port code for Srinagar is INSXR4
+INBBM6,Bari Brahma,Jammu Kashmir,Port code for Bari Brahma is INBBM6
+INIXW6,Jamshedpur (ICD),Jharkhand,Port code for Jamshedpur (ICD) is INIXW6
+INTAT6,Jamshedpur (ICD),Jharkhand,Port code for Jamshedpur (ICD) is INTAT6
+INBLR4,Banglore Air Cargo,Karnataka,Port code for Banglore Air Cargo is INBLR4
+INBLR5,Bangalore,Karnataka,Port code for Bangalore is INBLR5
+INDRU6,Belgaum – Desur,Karnataka,Port code for Belgaum – Desur is INDRU6
+INCDP1,Coondapur (Ganguly),Karnataka,Port code for Coondapur (Ganguly) is INCDP1
+INPDD1,Padubidri Minor Port,Karnataka,Port code for Padubidri Minor Port is INPDD1
+INKRW1,Karwar(including Sardeshivagad),Karnataka,Port code for Karwar(including Sardeshivagad) is INKRW1
+INHWR1,Honawar,Karnataka,Port code for Honawar is INHWR1
+INHGT1,Hangarkatta,Karnataka,Port code for Hangarkatta is INHGT1
+INBTK1,Bhatkal,Karnataka,Port code for Bhatkal is INBTK1
+INBKR1,Belekeri,Karnataka,Port code for Belekeri is INBKR1
+INBDR1,Baindur,Karnataka,Port code for Baindur is INBDR1
+INNML1,Mangalore Sea,Karnataka,Port code for Mangalore Sea is INNML1
+INBGQ6,Quest SEZ Belgaum,Karnataka,Port code for Quest SEZ Belgaum is INBGQ6
+INMAQ6,Mangalore SEZ,Karnataka,Port code for Mangalore SEZ is INMAQ6
+INUDI6,Synefra SEZ / Udipi,Karnataka,Port code for Synefra SEZ / Udipi is INUDI6
+INBNC6,KBITS SEZ / Bangalore,Karnataka,Port code for KBITS SEZ / Bangalore is INBNC6
+INHSP6,KIADBP SEZ / Hassan,Karnataka,Port code for KIADBP SEZ / Hassan is INHSP6
+INHSF6,KIADBFP SEZ / Hassan,Karnataka,Port code for KIADBFP SEZ / Hassan is INHSF6
+INHST6,KIADBT SEZ / Hassan,Karnataka,Port code for KIADBT SEZ / Hassan is INHST6
+INSBC6,Biocon SEZ / Bangalore,Karnataka,Port code for Biocon SEZ / Bangalore is INSBC6
+INBLK1,Belekeri,Karnataka,Port code for Belekeri is INBLK1
+INCOO1,Coondapur (Ganguly),Karnataka,Port code for Coondapur (Ganguly) is INCOO1
+INMAL1,Malpe,Karnataka,Port code for Malpe is INMAL1
+INHAS6,Hassan (EPZ/SEZ),Karnataka,Port code for Hassan (EPZ/SEZ) is INHAS6
+INWFD6,Bangalore,Karnataka,Port code for Bangalore is INWFD6
+INTRI1,Tadri,Karnataka,Port code for Tadri is INTRI1
+INIXE1,Mangalore,Karnataka,Port code for Mangalore is INIXE1
+INTRV4,Trivendrun Air Cargo,Kerala,Port code for Trivendrun Air Cargo is INTRV4
+INANG1,Anijengo,Kerala,Port code for Anijengo is INANG1
+INBDG1,Badagara,Kerala,Port code for Badagara is INBDG1
+INKAL1,Kallai,Kerala,Port code for Kallai is INKAL1
+INKSG1,Kasargod,Kerala,Port code for Kasargod is INKSG1
+INKVL1,Kovalam,Kerala,Port code for Kovalam is INKVL1
+INMHE1,Mahe,Kerala,Port code for Mahe is INMHE1
+INPNN1,Ponnani,Kerala,Port code for Ponnani is INPNN1
+INCCT6,KINFRAFP SEZ / Kozhikkode,Kerala,Port code for KINFRAFP SEZ / Kozhikkode is INCCT6
+INTVC6,KINFRAA SEZ / Thiruvananthapuram,Kerala,Port code for KINFRAA SEZ / Thiruvananthapuram is INTVC6
+INERV6,Vallarpadom SEZ / Ernakulam,Kerala,Port code for Vallarpadom SEZ / Ernakulam is INERV6
+INERP6,Puthuvypeen SEZ / Ernakulam,Kerala,Port code for Puthuvypeen SEZ / Ernakulam is INERP6
+INRKG1,Rajakkamangalam,Kerala,Port code for Rajakkamangalam is INRKG1
+INMLP1,Mallipuram,Kerala,Port code for Mallipuram is INMLP1
+INLPR1,Leapuram,Kerala,Port code for Leapuram is INLPR1
+INKDP1,Kondiapetnam,Kerala,Port code for Kondiapetnam is INKDP1
+INKND1,Kankudy,Kerala,Port code for Kankudy is INKND1
+INCNN1,Cannanore,Kerala,Port code for Cannanore is INCNN1
+INCOK1,Cochin Sea,Kerala,Port code for Cochin Sea is INCOK1
+INALF1,Allepey,Kerala,Port code for Allepey is INALF1
+INCOK6,Cochin (EPZ/SEZ),Kerala,Port code for Cochin (EPZ/SEZ) is INCOK6
+INARR6,Aroor,Kerala,Port code for Aroor is INARR6
+INCCJ4,Karipur(Calicut),Kerala,Port code for Karipur(Calicut) is INCCJ4
+INMCI1,Minicoy Island,Kerala,Port code for Minicoy Island is INMCI1
+INTEL1,Tellichery,Kerala,Port code for Tellichery is INTEL1
+INVZJ1,Vazhinjam,Kerala,Port code for Vazhinjam is INVZJ1
+INCOK4,Cochin,Kerala,Port code for Cochin is INCOK4
+INNEE1,Neendakara,Kerala,Port code for Neendakara is INNEE1
+INCCJ1,C.H. Kozikode,Kerala,Port code for C.H. Kozikode is INCCJ1
+INAZK1,Azhikkal,Kerala,Port code for Azhikkal is INAZK1
+INKYM6,Kottayam (10.11.09),Kerala,Port code for Kottayam (10.11.09) is INKYM6
+IN TCR 6,Thrissur ICD,Kerala,Port code for Thrissur ICD is IN TCR 6
+INAGI1,Agatti Island,Lakshadweep,Port code for Agatti Island is INAGI1
+INKTI1,Kiltan Island,Lakshadweep,Port code for Kiltan Island is INKTI1
+INADI1,Androth Island,Lakshadweep,Port code for Androth Island is INADI1
+INBTR1,Bitra Island,Lakshadweep,Port code for Bitra Island is INBTR1
+INCTI1,Chettat Island,Lakshadweep,Port code for Chettat Island is INCTI1
+INKVT1,Kavaratti Island,Lakshadweep,Port code for Kavaratti Island is INKVT1
+INKDI1,Kadmat lsland,Lakshadweep,Port code for Kadmat lsland is INKDI1
+INAMI1,Amini IsTand,Lakshadweep,Port code for Amini IsTand is INAMI1
+INMPR6,Malanpur ICD,Madhya Pradesh,Port code for Malanpur ICD is INMPR6
+INKHD6,Kheda -Dhar ICD,Madhya Pradesh,Port code for Kheda -Dhar ICD is INKHD6
+INDHA6,Indore-Dhannad,Madhya Pradesh,Port code for Indore-Dhannad is INDHA6
+INMDD6,Mandideep,Madhya Pradesh,Port code for Mandideep is INMDD6
+INIDR4,Indore,Madhya Pradesh,Port code for Indore is INIDR4
+INGWL6,Malanpur(Gwalior),Madhya Pradesh,Port code for Malanpur(Gwalior) is INGWL6
+ININD6,Pithampur,Madhya Pradesh,Port code for Pithampur is ININD6
+INIDR6,Indore (EPZ/SEZ),Madhya Pradesh,Port code for Indore (EPZ/SEZ) is INIDR6
+INRTM6,RATLAM(CONCOR),Madhya Pradesh,Port code for RATLAM(CONCOR) is INRTM6
+ININB6,MPAKVN SEZ/Indore,Madhya Pradesh,Port code for MPAKVN SEZ/Indore is ININB6
+ININI6,IIPL SEZ / Indore,Madhya Pradesh,Port code for IIPL SEZ / Indore is ININI6
+ININN6,Infosys SEZ / Indore,Madhya Pradesh,Port code for Infosys SEZ / Indore is ININN6
+ININT6,TCS SEZ / Indore,Madhya Pradesh,Port code for TCS SEZ / Indore is ININT6
+INACH1,Achra,Maharashtra,Port code for Achra is INACH1
+INBOM4,Bombay Air Cargo,Maharashtra,Port code for Bombay Air Cargo is INBOM4
+INNSA1,Nhava Sheva Sea,Maharashtra,Port code for Nhava Sheva Sea is INNSA1
+INVYD1,Vijaydurg,Maharashtra,Port code for Vijaydurg is INVYD1
+INVNG1,Vengurla,Maharashtra,Port code for Vengurla is INVNG1
+INVSV1,Varsava,Maharashtra,Port code for Varsava is INVSV1
+INVRD1,Varavda,Maharashtra,Port code for Varavda is INVRD1
+INUTN1,Uttan,Maharashtra,Port code for Uttan is INUTN1
+INULW1,Ulwa,Maharashtra,Port code for Ulwa is INULW1
+INTMP1,Trombay,Maharashtra,Port code for Trombay is INTMP1
+INTNA1,Thana,Maharashtra,Port code for Thana is INTNA1
+INTHL1,Thal,Maharashtra,Port code for Thal is INTHL1
+INTRP1,Tarapur,Maharashtra,Port code for Tarapur is INTRP1
+INDEG1,Deogad,Maharashtra,Port code for Deogad is INDEG1
+INDLB6,Daulatabad ICD,Maharashtra,Port code for Daulatabad ICD is INDLB6
+INDTW1,Dantiwara,Maharashtra,Port code for Dantiwara is INDTW1
+INDHN1,Dahanu,Maharashtra,Port code for Dahanu is INDHN1
+INBRY1,Borya,Maharashtra,Port code for Borya is INBRY1
+INBRM1,Borlai – Mandla,Maharashtra,Port code for Borlai – Mandla is INBRM1
+INBSL6,Bhusaval ICD,Maharashtra,Port code for Bhusaval ICD is INBSL6
+INBWN1,Bhiwandi,Maharashtra,Port code for Bhiwandi is INBWN1
+INBLP1,Belapur,Maharashtra,Port code for Belapur is INBLP1
+INKRP1,Kiranpani,Maharashtra,Port code for Kiranpani is INKRP1
+INKIW1,Kelwa,Maharashtra,Port code for Kelwa is INKIW1
+INKSH1,Kelshi,Maharashtra,Port code for Kelshi is INKSH1
+INKRN1,Karanja,Maharashtra,Port code for Karanja is INKRN1
+INKLY1,Kalyan,Maharashtra,Port code for Kalyan is INKLY1
+INJTP1,Jaitapur,Maharashtra,Port code for Jaitapur is INJTP1
+INJGD1,Jaigad,Maharashtra,Port code for Jaigad is INJGD1
+INHRN1,Harnai,Maharashtra,Port code for Harnai is INHRN1
+INDIG1,Dighi Port,Maharashtra,Port code for Dighi Port is INDIG1
+INJNR4,Nashik-Janori ACC,Maharashtra,Port code for Nashik-Janori ACC is INJNR4
+INJNR6,Nashik-Janori ICD,Maharashtra,Port code for Nashik-Janori ICD is INJNR6
+INTLG6,Pune-Talegoan ICD,Maharashtra,Port code for Pune-Talegoan ICD is INTLG6
+INMWA6,ICD Maliwada,Maharashtra,Port code for ICD Maliwada is INMWA6
+INPVL6,Panvel,Maharashtra,Port code for Panvel is INPVL6
+INSWD1,Shriwardhan,Maharashtra,Port code for Shriwardhan is INSWD1
+INSTP1,Satpati,Maharashtra,Port code for Satpati is INSTP1
+INRJR1,Rajpuri,Maharashtra,Port code for Rajpuri is INRJR1
+INPRG1,Purangad,Maharashtra,Port code for Purangad is INPRG1
+INPSH1,Palshet,Maharashtra,Port code for Palshet is INPSH1
+INNVT1,Nivti,Maharashtra,Port code for Nivti is INNVT1
+INNWP1,Newapur,Maharashtra,Port code for Newapur is INNWP1
+INNDG1,Nandgaon,Maharashtra,Port code for Nandgaon is INNDG1
+INMRD1,Murad,Maharashtra,Port code for Murad is INMRD1
+INGRD6,Mumbai DP-II,Maharashtra,Port code for Mumbai DP-II is INGRD6
+INGRR6,Mumbai -DP-I,Maharashtra,Port code for Mumbai -DP-I is INGRR6
+INMRA1,Mora,Maharashtra,Port code for Mora is INMRA1
+INMRJ6,Miraj,Maharashtra,Port code for Miraj is INMRJ6
+INMNR1,Manori,Maharashtra,Port code for Manori is INMNR1
+INMNW1,Mandwa,Maharashtra,Port code for Mandwa is INMNW1
+INMLW1,Malwan,Maharashtra,Port code for Malwan is INMLW1
+INKMB1,Kumbharu,Maharashtra,Port code for Kumbharu is INKMB1
+INBSN1,Bassein,Maharashtra,Port code for Bassein is INBSN1
+INBKT1,Bankot,Maharashtra,Port code for Bankot is INBKT1
+INBND1,Bandra,Maharashtra,Port code for Bandra is INBND1
+INANL1,Arnala,Maharashtra,Port code for Arnala is INANL1
+INABG1,Alibag,Maharashtra,Port code for Alibag is INABG1
+INBOM1,Bombay Sea,Maharashtra,Port code for Bombay Sea is INBOM1
+INDHP1,Dabhol Port,Maharashtra,Port code for Dabhol Port is INDHP1
+INRED1,Redi,Maharashtra,Port code for Redi is INRED1
+INKHP6,Khopta (EPZ/SEZ),Maharashtra,Port code for Khopta (EPZ/SEZ) is INKHP6
+INBOM6,Mumbai (EPZ/SEZ),Maharashtra,Port code for Mumbai (EPZ/SEZ) is INBOM6
+INCCH6,Chinchwad ( ICD),Maharashtra,Port code for Chinchwad ( ICD) is INCCH6
+INWAL6,Waluj(Aurangabad),Maharashtra,Port code for Waluj(Aurangabad) is INWAL6
+INPMP6,Pimpri,Maharashtra,Port code for Pimpri is INPMP6
+INNSK6,Nasik,Maharashtra,Port code for Nasik is INNSK6
+INNGP6,Nagpur,Maharashtra,Port code for Nagpur is INNGP6
+INMUL6,Mulund,Maharashtra,Port code for Mulund is INMUL6
+INJAL6,Jalgaon,Maharashtra,Port code for Jalgaon is INJAL6
+INDIG6,Dighi(Pune),Maharashtra,Port code for Dighi(Pune) is INDIG6
+INNAG4,Nagpur,Maharashtra,Port code for Nagpur is INNAG4
+INPNQ4,Pune,Maharashtra,Port code for Pune is INPNQ4
+INDHU1,Dahanu,Maharashtra,Port code for Dahanu is INDHU1
+INRVD1,Revdanda,Maharashtra,Port code for Revdanda is INRVD1
+INRTC1,Ratnagiri,Maharashtra,Port code for Ratnagiri is INRTC1
+INRNR1,Ranpar,Maharashtra,Port code for Ranpar is INRNR1
+INPNV6,ARSHIYA-SEZ/PANVEL,Maharashtra,Port code for ARSHIYA-SEZ/PANVEL is INPNV6
+INDMT1,Dharamtar,Maharashtra,Port code for Dharamtar is INDMT1
+INBAP6,MultiService-SEZ,Maharashtra,Port code for MultiService-SEZ is INBAP6
+INKLM6,Multi Service-SEZ Kalambolli,Maharashtra,Port code for Multi Service-SEZ Kalambolli is INKLM6
+INBAU6,IT/ITES-A-SEZ/Ulwe,Maharashtra,Port code for IT/ITES-A-SEZ/Ulwe is INBAU6
+INBAI6,IT/ITES-B-SEZ/Ulwe,Maharashtra,Port code for IT/ITES-B-SEZ/Ulwe is INBAI6
+INBAG6,Gem & Jewellery-SEZ/Ulwe(Distt.,Maharashtra,Port code for Gem & Jewellery-SEZ/Ulwe(Distt. is INBAG6
+INBAM6,Multi Service-SEZ/Ulwe(Distt. Raigad),Maharashtra,Port code for Multi Service-SEZ/Ulwe(Distt. Raigad) is INBAM6
+IN BAT 6,IT/ITES-C SEZ/Ulwe,Maharashtra,Port code for IT/ITES-C SEZ/Ulwe is IN BAT 6
+AIN PNQ 6,"Hadapsar, SEZ, Pune",Maharashtra,"Port code for Hadapsar, SEZ, Pune is AIN PNQ 6"
+INMUC6,SUNSTREAM CITY PVT.,Maharashtra,Port code for SUNSTREAM CITY PVT. is INMUC6
+INPSI6,SYNTEL INTERNATIONAL,Maharashtra,Port code for SYNTEL INTERNATIONAL is INPSI6
+INPMT6,MAGARPATTA TOWNSHIP,Maharashtra,Port code for MAGARPATTA TOWNSHIP is INPMT6
+INPIT6,INFOSYS TECHNOLOGIES,Maharashtra,Port code for INFOSYS TECHNOLOGIES is INPIT6
+INPEK6,EON KHARADI INFRASTRUCTURE,Maharashtra,Port code for EON KHARADI INFRASTRUCTURE is INPEK6
+INKRM6,Maharashtra Airport,Maharashtra,Port code for Maharashtra Airport is INKRM6
+INAIR6,Serene Properties Private Limited,Maharashtra,Port code for Serene Properties Private Limited is INAIR6
+INVKH6,HNB SEZ/ MUMBAI,Maharashtra,Port code for HNB SEZ/ MUMBAI is INVKH6
+INCHJ6,WWIL ICD/ WARDHA,Maharashtra,Port code for WWIL ICD/ WARDHA is INCHJ6
+INDPC4,"PCCCC, Bandra- Kurla Complex,",Maharashtra,"Port code for PCCCC, Bandra- Kurla Complex, is INDPC4"
+INBNG6,MMAuHmAbGaAiONICD/THAN,Maharashtra,Port code for MMAuHmAbGaAiONICD/THAN is INBNG6
+INAIG6,GEPL SEZ/Thane,Maharashtra,Port code for GEPL SEZ/Thane is INAIG6
+INAWM6,MIDC SEZ/AURANGABAD (Maharashtra,Maharashtra,Port code for MIDC SEZ/AURANGABAD (Maharashtra is INAWM6
+INDID6,MIDC SEZ/NANDED,Maharashtra,Port code for MIDC SEZ/NANDED is INDID6
+INPUM6,MIDC SEZ/PUNE,Maharashtra,Port code for MIDC SEZ/PUNE is INPUM6
+INKLE6,MIDC SEZ / RAIGAD,Maharashtra,Port code for MIDC SEZ / RAIGAD is INKLE6
+INSTU6,MIDC SEZ / KESURDE,Maharashtra,Port code for MIDC SEZ / KESURDE is INSTU6
+INNKI6,IIIL SEZ / SINNAR,Maharashtra,Port code for IIIL SEZ / SINNAR is INNKI6
+INSTM6,MIDC PHALTAN SEZ / SATARA,Maharashtra,Port code for MIDC PHALTAN SEZ / SATARA is INSTM6
+INPNU6,MSFPL SEZ / PUNE,Maharashtra,Port code for MSFPL SEZ / PUNE is INPNU6
+INAWW6,WIDL SEZ / AURANGABAD,Maharashtra,Port code for WIDL SEZ / AURANGABAD is INAWW6
+INWRR6,WPCL CHANDRAPUR,Maharashtra,Port code for WPCL CHANDRAPUR is INWRR6
+INCCW6,WIPRO / PUNE,Maharashtra,Port code for WIPRO / PUNE is INCCW6
+INTGN6,KEIPL / PUNE,Maharashtra,Port code for KEIPL / PUNE is INTGN6
+INPUN6,KBTV / PUNE,Maharashtra,Port code for KBTV / PUNE is INPUN6
+INPNE6,NTPL / PUNE,Maharashtra,Port code for NTPL / PUNE is INPNE6
+INCCQ6,QBP / PUNE,Maharashtra,Port code for QBP / PUNE is INCCQ6
+INMREB,Moreh,Manipur,Port code for Moreh is INMREB
+INIMF4,Imphal,Manipur,Port code for Imphal is INIMF4
+INBGMB,Baghmara,Meghalaya,Port code for Baghmara is INBGMB
+INBRAB,Barsora,Meghalaya,Port code for Barsora is INBRAB
+INSBZB,Shella Bazar,Meghalaya,Port code for Shella Bazar is INSBZB
+INRGUB,Ryngku,Meghalaya,Port code for Ryngku is INRGUB
+INMGHB,Mahendraganj,Meghalaya,Port code for Mahendraganj is INMGHB
+INGHPB,Ghasuapara,Meghalaya,Port code for Ghasuapara is INGHPB
+INDWKB,Dawki,Meghalaya,Port code for Dawki is INDWKB
+INDLUB,Dalu,Meghalaya,Port code for Dalu is INDLUB
+INBOLB,Bolanganj,Meghalaya,Port code for Bolanganj is INBOLB
+INBLTB,Balet,Meghalaya,Port code for Balet is INBLTB
+INCHPB,Champai,Mizoram,Port code for Champai is INCHPB
+INDMRB,Demagir,Nagaland,Port code for Demagir is INDMRB
+INBBP1,Bahabal Pur,Orissa,Port code for Bahabal Pur is INBBP1
+INPRT1,Paradeep,Orissa,Port code for Paradeep is INPRT1
+INBBI4,Bhubaneswar,Orissa,Port code for Bhubaneswar is INBBI4
+INGPR1,Gopalpur,Orissa,Port code for Gopalpur is INGPR1
+INSKD6,Kalinganagar,Orissa,Port code for Kalinganagar is INSKD6
+INBBS6,OIIDC SEZ/Bhubneshwar,Orissa,Port code for OIIDC SEZ/Bhubneshwar is INBBS6
+INCAS6,SAPL SEZ / Ganjam,Orissa,Port code for SAPL SEZ / Ganjam is INCAS6
+INKRK1,Karaikal,Pondicherry,Port code for Karaikal is INKRK1
+INPNY1,Pondicherry,Pondicherry,Port code for Pondicherry is INPNY1
+INPNY6,Pondicherry ICD,Pondicherry,Port code for Pondicherry ICD is INPNY6
+INLUD6,Ludhiana,Punjab,Port code for Ludhiana is INLUD6
+INASR2,Amritsar Railway Station,Punjab,Port code for Amritsar Railway Station is INASR2
+INATT2,Attari Railway Station,Punjab,Port code for Attari Railway Station is INATT2
+INATRB,Attari Road,Punjab,Port code for Attari Road is INATRB
+INDPR6,DAPPER,Punjab,Port code for DAPPER is INDPR6
+INATQ4,Rajasansi(Amritsar),Punjab,Port code for Rajasansi(Amritsar) is INATQ4
+INJUC6,Jalandhar,Punjab,Port code for Jalandhar is INJUC6
+INLDH6,Ludhiana,Punjab,Port code for Ludhiana is INLDH6
+INASR6,Amritsar,Punjab,Port code for Amritsar is INASR6
+INBTI6,Bhatinda,Punjab,Port code for Bhatinda is INBTI6
+INJAI6,Jaipur ICD,Rajasthan,Port code for Jaipur ICD is INJAI6
+INTHA6,Thar Dry Port – Jodhpur ICD,Rajasthan,Port code for Thar Dry Port – Jodhpur ICD is INTHA6
+INMNB2,Munabao Railway Station,Rajasthan,Port code for Munabao Railway Station is INMNB2
+INKKU6,Kanakpura – Jaipur ICD,Rajasthan,Port code for Kanakpura – Jaipur ICD is INKKU6
+INBRN6,Jodhpur- Boranda (EPZ/SEZ),Rajasthan,Port code for Jodhpur- Boranda (EPZ/SEZ) is INBRN6
+INJAI5,Jaipur,Rajasthan,Port code for Jaipur is INJAI5
+INJSZ6,Jaipur – Sitapur (EPZ/SEZ),Rajasthan,Port code for Jaipur – Sitapur (EPZ/SEZ) is INJSZ6
+INBGK6,Bhagat ki Kothi – Jodhpur ICD,Rajasthan,Port code for Bhagat ki Kothi – Jodhpur ICD is INBGK6
+INBMR2,Barmer Railway Station,Rajasthan,Port code for Barmer Railway Station is INBMR2
+INJAI4,Jaipur,Rajasthan,Port code for Jaipur is INJAI4
+INBHL6,Bhilwara,Rajasthan,Port code for Bhilwara is INBHL6
+INJUX6,Jodhpur,Rajasthan,Port code for Jodhpur is INJUX6
+INUDZ6,Udaipur,Rajasthan,Port code for Udaipur is INUDZ6
+INKTT6,Kota,Rajasthan,Port code for Kota is INKTT6
+INBWD6,Bhiwadi,Rajasthan,Port code for Bhiwadi is INBWD6
+INCHMB,Chamurchi,Sikkim,Port code for Chamurchi is INCHMB
+INAJJ6,Arakkonam – Melpakkam – Chennai,Tamil Nadu,Port code for Arakkonam – Melpakkam – Chennai is INAJJ6
+INIXM6,Madurai ICD,Tamil Nadu,Port code for Madurai ICD is INIXM6
+INCHE6,Tiruppur – Chettipalayam CFS,Tamil Nadu,Port code for Tiruppur – Chettipalayam CFS is INCHE6
+INKAR6,KARUR,Tamil Nadu,Port code for KARUR is INKAR6
+INIGU6,Coimbatore – Irugur ICD,Tamil Nadu,Port code for Coimbatore – Irugur ICD is INIGU6
+INMAA6,Chennai (EPZ/SEZ),Tamil Nadu,Port code for Chennai (EPZ/SEZ) is INMAA6
+INMAA4,Chennai Air Cargo,Tamil Nadu,Port code for Chennai Air Cargo is INMAA4
+INTUT1,Tuticorin Sea,Tamil Nadu,Port code for Tuticorin Sea is INTUT1
+INTUT6,Tuticorin ICD,Tamil Nadu,Port code for Tuticorin ICD is INTUT6
+INMAA1,Chennai Sea,Tamil Nadu,Port code for Chennai Sea is INMAA1
+INDSK1,Dhanu – Shkodi,Tamil Nadu,Port code for Dhanu – Shkodi is INDSK1
+INKSP1,Kulasekarapatnam,Tamil Nadu,Port code for Kulasekarapatnam is INKSP1
+INPTN1,Portonovo,Tamil Nadu,Port code for Portonovo is INPTN1
+INTPH1,Thopputhurai,Tamil Nadu,Port code for Thopputhurai is INTPH1
+INTDE6,Tudiyalur – Coimbatore ICD,Tamil Nadu,Port code for Tudiyalur – Coimbatore ICD is INTDE6
+INTND1,Tondi,Tamil Nadu,Port code for Tondi is INTND1
+INTHO6,Tiruppur – Thottiplayam ICD,Tamil Nadu,Port code for Tiruppur – Thottiplayam ICD is INTHO6
+INRWR1,Rameshwaram,Tamil Nadu,Port code for Rameshwaram is INRWR1
+INPMB1,Pamban,Tamil Nadu,Port code for Pamban is INPMB1
+INKKR1,Kilakari,Tamil Nadu,Port code for Kilakari is INKKR1
+INCHL1,Colachel,Tamil Nadu,Port code for Colachel is INCHL1
+INTRL6,Tiruvallur ICD,Tamil Nadu,Port code for Tiruvallur ICD is INTRL6
+INILP6,Irungattukottai-ILP ICD,Tamil Nadu,Port code for Irungattukottai-ILP ICD is INILP6
+INCDL1,Cuddalore,Tamil Nadu,Port code for Cuddalore is INCDL1
+INNPT1,Nagapattinam,Tamil Nadu,Port code for Nagapattinam is INNPT1
+INTYR1,Tirukkadayyur,Tamil Nadu,Port code for Tirukkadayyur is INTYR1
+INVKM1,Valinokkam,Tamil Nadu,Port code for Valinokkam is INVKM1
+INSLL6,Singnallur,Tamil Nadu,Port code for Singnallur is INSLL6
+INTUP6,Tirupur,Tamil Nadu,Port code for Tirupur is INTUP6
+INSXT6,Salem,Tamil Nadu,Port code for Salem is INSXT6
+INCBE6,Coimbatore,Tamil Nadu,Port code for Coimbatore is INCBE6
+INTRZ4,Tiruchirapalli,Tamil Nadu,Port code for Tiruchirapalli is INTRZ4
+INCJB4,Coimbatore,Tamil Nadu,Port code for Coimbatore is INCJB4
+INVEP1,Veppalodai,Tamil Nadu,Port code for Veppalodai is INVEP1
+INRAM1,Rameshwaram,Tamil Nadu,Port code for Rameshwaram is INRAM1
+INMDP1,Mandapam,Tamil Nadu,Port code for Mandapam is INMDP1
+INCGI6,MWCDL-IT SEZ/Chengalpattu,Tamil Nadu,Port code for MWCDL-IT SEZ/Chengalpattu is INCGI6
+INCGA6,MWCDL-Apparel-sez/Chengalpattu,Tamil Nadu,Port code for MWCDL-Apparel-sez/Chengalpattu is INCGA6
+INCGL6,MWCDL-Auto ANCILLARIES-,Tamil Nadu,Port code for MWCDL-Auto ANCILLARIES- is INCGL6
+INCJN6,NIPL-SEZ Sriperumbudur,Tamil Nadu,Port code for NIPL-SEZ Sriperumbudur is INCJN6
+INCJS6,SIPCOT Hi-Tech-SEZ Sriperumbudur,Tamil Nadu,Port code for SIPCOT Hi-Tech-SEZ Sriperumbudur is INCJS6
+INCJO6,SIPCOT,Tamil Nadu,Port code for SIPCOT is INCJO6
+INCJF6,FTIL-SEZ Sriperumbudur,Tamil Nadu,Port code for FTIL-SEZ Sriperumbudur is INCJF6
+INCBS6,SE&C Ltd-SEZ/Coimbatore,Tamil Nadu,Port code for SE&C Ltd-SEZ/Coimbatore is INCBS6
+INVTC6,CHEYYAR-SEZ/Vellore,Tamil Nadu,Port code for CHEYYAR-SEZ/Vellore is INVTC6
+INTEN6,SIPCOT-Gangaikondan-SEZ/Tirunelveli,Tamil Nadu,Port code for SIPCOT-Gangaikondan-SEZ/Tirunelveli is INTEN6
+INTNC6,CCCL Infrastructure Ltd. –,Tamil Nadu,Port code for CCCL Infrastructure Ltd. – is INTNC6
+INNNN6,AMRL International Tech City Ltd.-,Tamil Nadu,Port code for AMRL International Tech City Ltd.- is INNNN6
+INTBM6,SPEHZP/L -NSaEnZg/Kuannerciheepuram,Tamil Nadu,Port code for SPEHZP/L -NSaEnZg/Kuannerciheepuram is INTBM6
+INUKL6,ETLISL-SEZ/Erode,Tamil Nadu,Port code for ETLISL-SEZ/Erode is INUKL6
+INPYS6,SIPCOT-SEZ/Erode,Tamil Nadu,Port code for SIPCOT-SEZ/Erode is INPYS6
+INGDP6,FLLPL-SEZ/Thirruvallur,Tamil Nadu,Port code for FLLPL-SEZ/Thirruvallur is INGDP6
+INENR1,Ennore,Tamil Nadu,Port code for Ennore is INENR1
+INTVT6,ICD/Tondiarpet Chennai,Tamil Nadu,Port code for ICD/Tondiarpet Chennai is INTVT6
+INKAT1,KATTUPALLI,Tamil Nadu,Port code for KATTUPALLI is INKAT1
+INTBT6,TCSL SEZ / SIRUSERI,Tamil Nadu,Port code for TCSL SEZ / SIRUSERI is INTBT6
+INCSP6,SIPL SEZ / KANCHEEPURAM,Tamil Nadu,Port code for SIPL SEZ / KANCHEEPURAM is INCSP6
+INCJI6,IG3I SEZ / KANCHEEPURAM,Tamil Nadu,Port code for IG3I SEZ / KANCHEEPURAM is INCJI6
+INCJD6,DLFC SEZ / KANCHEEPURAM,Tamil Nadu,Port code for DLFC SEZ / KANCHEEPURAM is INCJD6
+INCEC6,ECTN SEZ / COIMBATORE,Tamil Nadu,Port code for ECTN SEZ / COIMBATORE is INCEC6
+INCJE6,ECTN SEZ / KANCHEEPURAM,Tamil Nadu,Port code for ECTN SEZ / KANCHEEPURAM is INCJE6
+INCJA6,AEIP SEZ / KANCHEEPURAM,Tamil Nadu,Port code for AEIP SEZ / KANCHEEPURAM is INCJA6
+INCSV6,SVPL SEZ / COIMBATORE,Tamil Nadu,Port code for SVPL SEZ / COIMBATORE is INCSV6
+INCGE6,ETA SEZ / KANCHEEPURAM,Tamil Nadu,Port code for ETA SEZ / KANCHEEPURAM is INCGE6
+INCNC6,NCTL SEZ / KANCHEEPURAM,Tamil Nadu,Port code for NCTL SEZ / KANCHEEPURAM is INCNC6
+INTBC6,CTSI SEZ / SIRUSERI,Tamil Nadu,Port code for CTSI SEZ / SIRUSERI is INTBC6
+INMAS6,TIPL SEZ / CHENNAI,Tamil Nadu,Port code for TIPL SEZ / CHENNAI is INMAS6
+INTLT6,LTSL SEZ / TIRUVALLUR,Tamil Nadu,Port code for LTSL SEZ / TIRUVALLUR is INTLT6
+INTBH6,HIRL SEZ / KANCHEEPURAM,Tamil Nadu,Port code for HIRL SEZ / KANCHEEPURAM is INTBH6
+INCBT6,TDPL SEZ / COIMBATORE,Tamil Nadu,Port code for TDPL SEZ / COIMBATORE is INCBT6
+INVLR6,SIPC SEZ / VELLORE,Tamil Nadu,Port code for SIPC SEZ / VELLORE is INVLR6
+INCJV6,VTPL SEZ / KANCHEEPURAM,Tamil Nadu,Port code for VTPL SEZ / KANCHEEPURAM is INCJV6
+INMEC6,ECTN SEZ / MADURAI – I,Tamil Nadu,Port code for ECTN SEZ / MADURAI – I is INMEC6
+INMDC6,ECTN SEZ / MADURAI – II,Tamil Nadu,Port code for ECTN SEZ / MADURAI – II is INMDC6
+INSXE6,ECTN SEZ / SALEM,Tamil Nadu,Port code for ECTN SEZ / SALEM is INSXE6
+INMDR6,RTPL SEZ / MADURAI,Tamil Nadu,Port code for RTPL SEZ / MADURAI is INMDR6
+INCFI6,FIPL SEZ / KANCHEEPURAM,Tamil Nadu,Port code for FIPL SEZ / KANCHEEPURAM is INCFI6
+INHSI6,SIPC SEZ / KRISHNAGIRI,Tamil Nadu,Port code for SIPC SEZ / KRISHNAGIRI is INHSI6
+INMAE6,ECTNL SEZ / Gangaikondan,Tamil Nadu,Port code for ECTNL SEZ / Gangaikondan is INMAE6
+INTBS6,HTL SEZ / Sireseri,Tamil Nadu,Port code for HTL SEZ / Sireseri is INTBS6
+INAGTB,Agartala,Tripura,Port code for Agartala is INAGTB
+INMHGB,Mahurighat,Tripura,Port code for Mahurighat is INMHGB
+INSABB,Sabroom,Tripura,Port code for Sabroom is INSABB
+INSMPB,Srimantapur,Tripura,Port code for Srimantapur is INSMPB
+INRGBB,Old Raghna Bazar,Tripura,Port code for Old Raghna Bazar is INRGBB
+INKWGB,Khowaighat,Tripura,Port code for Khowaighat is INKWGB
+INDHLB,Dhalaighat,Tripura,Port code for Dhalaighat is INDHLB
+INKELB,Kel Sahar Subdivision,Tripura,Port code for Kel Sahar Subdivision is INKELB
+INBSAB,Banbasa,Uttar Pradesh,Port code for Banbasa is INBSAB
+INGAIB,Gauriphanta,Uttar Pradesh,Port code for Gauriphanta is INGAIB
+INRDT6,Kota-Ravtha Road,Uttar Pradesh,Port code for Kota-Ravtha Road is INRDT6
+INGJIB,Gunji,Uttar Pradesh,Port code for Gunji is INGJIB
+INJHOB,Jhulaghat (Pithoragarh),Uttar Pradesh,Port code for Jhulaghat (Pithoragarh) is INJHOB
+INKTGB,Katarniyaghat,Uttar Pradesh,Port code for Katarniyaghat is INKTGB
+INNGRB,Nepalgunj Road,Uttar Pradesh,Port code for Nepalgunj Road is INNGRB
+INMBS6,Madhosingh ICD,Uttar Pradesh,Port code for Madhosingh ICD is INMBS6
+INLON6,ICD Loni,Uttar Pradesh,Port code for ICD Loni is INLON6
+INCPL6,Dadri-CGML,Uttar Pradesh,Port code for Dadri-CGML is INCPL6
+INBDH6,ICD Badohi,Uttar Pradesh,Port code for ICD Badohi is INBDH6
+INTTP6,Dadri TTPL,Uttar Pradesh,Port code for Dadri TTPL is INTTP6
+INAPL6,Dadri-ACPL CFS,Uttar Pradesh,Port code for Dadri-ACPL CFS is INAPL6
+INTKNB,Tikonia,Uttar Pradesh,Port code for Tikonia is INTKNB
+INSNLB,Sonauli,Uttar Pradesh,Port code for Sonauli is INSNLB
+INKWAB,Khunwa,Uttar Pradesh,Port code for Khunwa is INKWAB
+INKNU6,Kanpur – JRY (ICD ),Uttar Pradesh,Port code for Kanpur – JRY (ICD ) is INKNU6
+INJWAB,Jarwa,Uttar Pradesh,Port code for Jarwa is INJWAB
+INSJR6,Greater Noida-Surajpur,Uttar Pradesh,Port code for Greater Noida-Surajpur is INSJR6
+INDLAB,Dharchula,Uttar Pradesh,Port code for Dharchula is INDLAB
+INBNYB,Berhni,Uttar Pradesh,Port code for Berhni is INBNYB
+INSTT6,Dadri – STTPL (CFS),Uttar Pradesh,Port code for Dadri – STTPL (CFS) is INSTT6
+INAGR4,Agra,Uttar Pradesh,Port code for Agra is INAGR4
+INDER6,Noida-Dadri (ICD),Uttar Pradesh,Port code for Noida-Dadri (ICD) is INDER6
+INMBC6,Moradabad (EPZ/SEZ),Uttar Pradesh,Port code for Moradabad (EPZ/SEZ) is INMBC6
+INNDA6,Noida (EPZ/SEZ),Uttar Pradesh,Port code for Noida (EPZ/SEZ) is INNDA6
+INSRE6,Saharanpur,Uttar Pradesh,Port code for Saharanpur is INSRE6
+INMTC6,Meerut,Uttar Pradesh,Port code for Meerut is INMTC6
+INMBD6,Pakwara (Moradabad),Uttar Pradesh,Port code for Pakwara (Moradabad) is INMBD6
+INCPC6,Kanpur,Uttar Pradesh,Port code for Kanpur is INCPC6
+INBSB6,Varanasi,Uttar Pradesh,Port code for Varanasi is INBSB6
+INBLJ6,Agra,Uttar Pradesh,Port code for Agra is INBLJ6
+INVNS4,Varanasi,Uttar Pradesh,Port code for Varanasi is INVNS4
+INPNK6,KLPPL-ICD/PANKI,Uttar Pradesh,Port code for KLPPL-ICD/PANKI is INPNK6
+INBEK4,Bareilly,Uttar Pradesh,Port code for Bareilly is INBEK4
+INLKO4,Lucknow,Uttar Pradesh,Port code for Lucknow is INLKO4
+INKNU4,Kanpur,Uttar Pradesh,Port code for Kanpur is INKNU4
+IN BUL 6,AN FTWZ LTD – FTWZ/ BULANDSHAHR,Uttar Pradesh,Port code for AN FTWZ LTD – FTWZ/ BULANDSHAHR is IN BUL 6
+IN ALP 6,"Dadri, Greater Noida",Uttar Pradesh,"Port code for Dadri, Greater Noida is IN ALP 6"
+IN NOI6,LONI-1 ICD Ghaziabad,Uttar Pradesh,Port code for LONI-1 ICD Ghaziabad is IN NOI6
+INCCU4,Kolkata Air Cargo,West Bengal,Port code for Kolkata Air Cargo is INCCU4
+INGTZB,Getandah,West Bengal,Port code for Getandah is INGTZB
+INHLIB,Hilli,West Bengal,Port code for Hilli is INHLIB
+INJIGB,Jaigaon,West Bengal,Port code for Jaigaon is INJIGB
+INSNG2,Singabad Railway Station,West Bengal,Port code for Singabad Railway Station is INSNG2
+INRNG2,Ranaghat Railway Station,West Bengal,Port code for Ranaghat Railway Station is INRNG2
+INRDP2,Radhikapur Railway Station,West Bengal,Port code for Radhikapur Railway Station is INRDP2
+INPTPB,Petrapole Road,West Bengal,Port code for Petrapole Road is INPTPB
+INPNTB,Pan itanki (Naxabari),West Bengal,Port code for Pan itanki (Naxabari) is INPNTB
+INNKNB,Namkhana,West Bengal,Port code for Namkhana is INNKNB
+INLGLB,Lalgola Town,West Bengal,Port code for Lalgola Town is INLGLB
+INMHDB,Kotawalighat (Mohedipur),West Bengal,Port code for Kotawalighat (Mohedipur) is INMHDB
+INJPGB,Jalpaiguri,West Bengal,Port code for Jalpaiguri is INJPGB
+INDUR6,ICD Durgapur,West Bengal,Port code for ICD Durgapur is INDUR6
+INTNGB,Tungi,West Bengal,Port code for Tungi is INTNGB
+INTTSB,T.T. Shed (Kidcerpore),West Bengal,Port code for T.T. Shed (Kidcerpore) is INTTSB
+INSKPB,Sukhia Pokhari,West Bengal,Port code for Sukhia Pokhari is INSKPB
+INSTIB,Sitai,West Bengal,Port code for Sitai is INSTIB
+INHGLB,Hingalganj,West Bengal,Port code for Hingalganj is INHGLB
+INGJXB,Ghojadanga,West Bengal,Port code for Ghojadanga is INGJXB
+INGED2,Gede Railway Station,West Bengal,Port code for Gede Railway Station is INGED2
+INPTP8,Patrapole,West Bengal,Port code for Patrapole is INPTP8
+INCBDB,Changrabandh,West Bengal,Port code for Changrabandh is INCBDB
+INFBRB,Fulbari,West Bengal,Port code for Fulbari is INFBRB
+INCCU1,Kolkata Sea,West Bengal,Port code for Kolkata Sea is INCCU1
+INHAL1,Haldia,West Bengal,Port code for Haldia is INHAL1
+INSLT6,Salt Lake (EPZ/SEZ),West Bengal,Port code for Salt Lake (EPZ/SEZ) is INSLT6
+INFLT6,Falta (EPZ/SEZ),West Bengal,Port code for Falta (EPZ/SEZ) is INFLT6
+INIXB4,Bagdogra,West Bengal,Port code for Bagdogra is INIXB4
+INBNT6,TCS SEZ/Kolkata,West Bengal,Port code for TCS SEZ/Kolkata is INBNT6
+INBXR6,DLF SEZ/Kolkata,West Bengal,Port code for DLF SEZ/Kolkata is INBXR6
+INBNX6,UNITECH SEZ/Kolkata,West Bengal,Port code for UNITECH SEZ/Kolkata is INBNX6
+INBNK6,Kolkata IT Park/Bantala,West Bengal,Port code for Kolkata IT Park/Bantala is INBNK6
+INBNW6,Wipro SEZ/ Kolkata,West Bengal,Port code for Wipro SEZ/ Kolkata is INBNW6
